@@ -1,0 +1,24 @@
+# PDF source (copyrighted, don't commit)
+*.pdf
+
+# Extracted raw text (intermediate)
+raw/
+
+# Mythos research output (intermediate)
+mythos_output/
+
+# Jekyll build
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+vendor/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temp
+*.tmp
+*.swp
+*~

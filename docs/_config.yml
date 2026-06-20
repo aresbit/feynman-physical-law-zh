@@ -1,0 +1,9 @@
+markdown: kramdown
+kramdown:
+  input: GFM
+  math_engine: mathjax
+
+title: 物理定律的本性
+description: Richard Feynman《The Character of Physical Law》中文翻译
+theme: jekyll-theme-cayman
+lang: zh-CN
