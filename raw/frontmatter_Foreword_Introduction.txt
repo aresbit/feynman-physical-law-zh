@@ -1,0 +1,527 @@
+T H E CHARACTER OF
+    P HYS ICAL L AW
+THE MESSENGER LECTURES have taken place annually at Cornell
+since 1924, when Hiram J. Messenger, a graduate and Professor of
+Mathematics, gave a sum of money to encourage eminent per­
+sonalities from anywhere in the world to visit Cornell and talk to
+the academic community. In establishing the fund for the lectures,
+Messenger specified that it is "to provide a course or courses of
+lectures on the evolution of civilization for the special purpose
+of    raising the moral standard of   our   political,   business,   and
+social life."
+     In November Professor Richard P. Feynman, the distinguished
+physicist and educator, gave the 1964 lectures.
+         T H E CHARACTER OF
+             P HYS ICAL L AW
+RICHARD FEYNMAN WITH NEW FOREWORD BY FRANK WILCZEK
+
+
+
+
+                    The MIT Press
+                Cambridge, Massachusetts
+                   London, England
+© 1965 Richard Feynman
+
+All rights reserved. No part of this book may be reproduced
+in any form by any electronic or mechanical means (including
+photocopying, recording, or information storage and retrieval)
+without permission in writing from the publisher.
+
+Printed and bound in the United States of America.
+
+Library of Congress Cataloging-in-Publication Data
+Names: Feynman, Richard P. (Richard Phillips), 1918-1988,
+  author. | Wilczek, Frank, writer of foreword.
+Title: The character of physical law / Richard Feynman ;
+  new foreword by Frank Wilczek.
+Description: Cambridge, MA ; London, England : The MIT
+  Press, [2017]
+Identifiers: LCCN 2016036636| ISBN 9780262533416 (pbk. ;
+  alk. paper) | ISBN 0262533413 (pbk. ; alk. paper)
+Subjects: LCSH: Physics.
+Classification: LCC QC28 .F4 2017 | DDC 530--dc23 LC record
+available at https://lccn.loc.gov/2016036636
+
+
+10   9   8   7   6   5   4   3   2   1
+                        Contents
+  Foreword by Frank Wilczek     1
+  Foreword by BBC Producer Alan Sleath        9
+  Introduction by the Provost of Cornell University     11
+1 The Law of Gravitation, an example of Physical Law         13
+2 The Relation of Mathematics to Physics          35
+3 The Great Conservation Principles      59
+4 Symmetry in Physical Law      84
+5 The Distinction of Past and Future     108
+6 Probability and Uncertainty—
+  the Quantum Mechanical view of Nature           127
+7 Seeking New Laws      149
+                           Foreword
+                         fra n k wilcz ek
+The Character of Physical Law is a very special book. Written in
+1965, it has aged very well. Feynman’s choice of scientific sub-
+jects seems inspired in retrospect. And his insights went deep.
+    But The Character of Physical Law is much more than an expo-
+sition of facts and ideas.
+    It is also a character study. The character is a most remarkable
+one: Feynman himself. His playful, curious spirit animates the
+text, while his essential honesty and humanity pervade it.
+    It is also a work of literature, full of memorable phrases. Here’s
+one that’s inspired for decades, ever since I first encountered it as
+                                                                           F
+a student:
+What we need is imagination, but imagination in a terrible straitjacket.
+In video form, The Character of Physical Law is often screened on
+college campuses. Those events can serve as focal points, where
+aspiring young scientists meet kindred spirits. Seeing and hearing
+                                                                           F
+Feynman in action is a wonderful experience, which you can also
+experience using the Internet. But the book is a distilled resource,
+which you can return to and assimilate. You can even add your
+own notes, and I urge you to do so.
+
+                                 I
+A lot has happened in physics since 1965. While The Character of
+Physical Law holds up amazingly well, it can use some updates.
+I’ll offer a few. Before beginning, let me emphasize that the need
+for these particular updates enhances rather than detracts from the
+book. Feynman tried to identify issues at the forefront of phys-
+ics that seemed unresolved, important and approachable. As you’ll
+see, he succeeded in doing just that.
+                             Foreword
+   On page 116, Feynman writes: “Therefore I think it necessary
+to add to the physical laws the hypothesis that in the past the uni-
+verse was more ordered, in the technical sense, than it is today—I
+think this is the additional statement that is needed to make sense,
+and to make an understanding of the irreversibility.”
+   In recent years physical cosmology has matured into a rich and
+sophisticated science, with many impressive, quantitative results.
+The broad outlines of Big Bang cosmology are no longer in doubt.
+And so, armed with considerable insight, we can assess Feyn-
+man’s “hypothesis” that in the past the universe was more ordered.
+   According to modern physical cosmology, our universe evolved
+from a very special, remarkably simple beginning. During the
+initial stages of the Big Bang, the matter in the universe was in
+thermal equilibrium at an extremely high temperature, almost per-
+fectly uniform in composition and density. Since then, the universe
+has expanded and cooled. The structures we see today, ranging
+from clusters of galaxies to individual galaxies to stars and planets,
+emerged through gravitational instability from extremely small de-
+viations from perfect uniformity (about one part in ten thousand).
+More specifically, regions containing slightly more than the aver-
+age density of matter attracted surrounding matter more effective-
+ly than less dense regions, thus getting denser, in a self-reinforcing
+cycle, until they condensed into the structures we see today.
+   Now, a nearly uniform, hot distribution of matter is, on the face
+of it, the opposite of “ordered.” Superficially, then, it might ap-
+pear that Feynman’s explanation of irreversibility is a non-starter.
+Deeper consideration, however, validates his guess.
+   The point is that while matter was in a maximally disordered
+state, approximating thermal equilibrium, close to the Big Bang,
+gravity was in a highly unusual state, very far from its equilibrium.
+Because gravity would like to clump things together, a state of
+near uniformity is very far from gravitational equilibrium.
+   As just noted, gravitational instability makes small deviations
+from uniformity grow. Thus the gravitational form of order im-
+plicit in Big Bang cosmology is not just a theoretical quibble, but
+the deep origin of structure in our universe.
+   Once we admit that refinement, we can elevate what Feynman
+called a “hypothesis” about the origin of irreversibility into ac-
+
+                                  2
+                            Foreword
+complished fact. There was a lot of (gravitational) order in the
+early universe, and its gradual, partial degradation—that is, the
+formation of galaxies, stars, and planets—is almost certainly the
+deep origin of irreversibility, as Feynman proposed.
+   While Feynman’s intuitive arguments are not scrupulously rig-
+orous, I find them convincing. And of course, all this still leaves
+open the question of why the universe began in a state with matter
+ordered, but gravity “disordered” (that is, far from equilibrium).
+But Feynman’s discussion of the origin of irreversibility frames
+the central question brilliantly, and takes a big step toward an an-
+swer.
+   On page 152, Feynman writes: “… we do not today understand
+the forces between neutrons and protons to the extent that if you
+wanted me to, and gave me enough time and computers, I could
+calculate the energy levels of carbons, or something like that.”
+   Now we do. We have a very precise and accurately tested theory
+of the strong force called quantum chromodynamics, or QCD for
+short.
+   QCD makes much more general the quantum electrodynamics
+(QED), which won Feynman his Nobel Prize (see below). I like to
+call QCD “QED on steroids.” QED tells the story of a single pho-
+ton, responding to electric charge, but QCD is the saga of an octet
+of gluons, which can respond to or transform three different kinds
+of charge, which are called (rather incongruously) color charges.
+   According to QCD, protons and neutrons—and the many other
+strongly interacting particles discovered at high-energy accelera-
+tors, which Feynman called “the dredge … digging up all this
+mud”—are made from quarks and gluons. Quarks and gluons are
+ideally simple particles that obey beautiful equations, while pro-
+tons and neutrons (and the other strongly interacting particles) are
+complicated composites. People with powerful computers have
+used the equations of QCD to calculate the masses of the most
+important strongly interacting particles (including protons and
+neutrons.) Now, they are making a good start on nuclear physics.
+   Feynman, with his parton model, made an important contribu-
+tion to the discovery of QCD. And during the last fifteen years of
+his career he spent much of his time developing that theory. But
+more on that later.
+
+                                 3
+                            Foreword
+   On page 155, Feynman writes: “It seems that if we take quan-
+tum mechanics, plus relativity, plus the proposition that everything
+has to be local, plus a number of tacit assumptions, we get in-
+consistency, because we get infinity for various things when we
+calculate them, and if we get infinity how can we ever say that this
+agrees with nature?”
+   Here Feynman, for once, went astray. Indeed the theory we just
+discussed, QCD, incorporates relativity, quantum mechanics, and
+locality in a fully consistent way—and also describes how nature
+works.
+   We now understand that the infinities which plague many quan-
+tum field theories, including QED, arise because the couplings be-
+tween particles become very strong at short distances, ultimately
+leading to singularities. But in other theories, including QCD,
+the interaction between particles becomes weaker, not stronger,
+at short distances: a property called asymptotic freedom. Asymp-
+totically free theories do not contain the nasty infinities that so
+disturbed Feynman.
+   Now I’ll add a couple of brief comments that are not updates as
+such, but seem appropriate here.
+   On page 160, Feynman writes: “For example, the quantum
+theory of gravitation is going very slowly, if at all, because all
+the experiments you can do never involve quantum mechanics and
+gravitation at the same time.”
+   One might quibble with the way this statement is formulated—
+after all, astrophysics is full of situations where both gravitation
+and quantum mechanics are relevant, and here on Earth all quan-
+tum experiments take place within the Earth’s gravitational field.
+What Feynman meant to say, of course, is that experiments to
+probe characteristically quantum effects of gravitational interac-
+tions—roughly speaking, the influence of individual gravitons—
+are impractical. That is still the case. As Feynman anticipated, this
+problem has made progress in the quantum theory of gravitation
+difficult and uncertain.
+   On page 105, Feynman shows off a little gem of insight,
+more advanced than anything else in the book, which rewards
+closer inspection. It concerns the connection between symmetry
+
+
+                                 4
+                           Foreword
+and conservation laws, which marks the high point of Lecture 4
+(“Symmetry and Conservation Laws”).
+   The connection between symmetry and conservation laws is
+called Noether’s theorem, after Emmy Noether, who derived it
+mathematically. Noether’s derivation is crisp and correct, but its
+nub is an abstract algebraic manipulation. Feynman sketches, in
+words and a simple picture (Figure 25) a simpler, intuitive deriva-
+tion. His argument is far from general, nor is it completely rigor-
+ous, but it sheds new light on a mysterious centerpiece of physics,
+and deserves to be developed further.
+
+                                   II
+Richard Feynman (May 11, 1918–February 15, 1988) won the
+Nobel Prize in 1965, together with Julian Schwinger and Sin-Itiro
+Tomonaga, for his epochal work on quantum electrodynamics.
+   Classical electrodynamics was the great achievement of nine-
+teenth-century physics, culminating in James Clerk Maxwell’s
+theoretical formulation of the field equations (Maxwell’s equa-
+tions) in 1864 and the experimental verification by Heinrich Hertz
+of their most startling consequence, electromagnetic radiation (ra-
+dio waves), in 1887.
+   Classical electrodynamics scored many triumphs, but by the
+turn of the century some serious problems loomed. Most impor-
+tant for future developments was the so-called ultraviolet catas-
+trophe in black-body radiation. Classical electrodynamics predicts
+that hot bodies emit more short-wavelength radiation than they do
+in reality. For an ideal radiator (which is also an ideal absorber—
+hence the term “black body”) the theory predicts radiation with
+infinite energy.
+   To address this difficulty, Max Planck and Albert Einstein pro-
+posed a stark departure from classical ideas. They proposed that
+light comes in particle-like units, later christened photons. Fol-
+lowing important contributions from several physicists, notably
+including Niels Bohr, Werner Heisenberg, and Erwin Schrodinger,
+Paul Dirac worked out a great synthesis of classical electrodynam-
+ics with the quantum ideas in the late 1920s. It is this theory we
+now call quantum electrodynamics, or QED.
+
+
+                                5
+                            Foreword
+   QED rapidly cleared up so many problems in atomic physics
+that by 1929 Dirac would claim that “the underlying physical laws
+necessary for the mathematical theory of a large part of physics
+and the whole of chemistry are thus completely known.”
+   Dirac’s claim has stood the test of time, but it had to survive a
+crisis. For though QED brilliantly succeeded in practice, its theo-
+retical underpinnings looked shaky. Approximate solutions to its
+equations—technically speaking, in the lowest order of perturba-
+tion theory—gave results that agreed very nicely with the experi-
+ment. But when one tried to get more accurate solutions, disaster
+loomed: the answers were mathematically infinite, or at best ill-de-
+fined. This is what Feynman was referring to in the passage quoted
+above, where he wrote, “… we get infinity for various things, and
+if we get infinity how can we say that this agrees with nature?”
+   That problem smoldered at the frontier of theoretical physics
+for a decade. It inspired Feynman, early in his career, to explore
+unorthodox approaches that might avoid the infinities. One inge-
+nious proposal, worked out in collaboration with his thesis advisor
+John Wheeler, was to bring in advanced potentials, which allow
+the future to act back on the present. (Then one must explain why
+such retro-causation is not more obvious! Feynman and Wheel-
+er did that, very cleverly. There are echoes of their work in this
+book’s chapter on irreversibility.)
+   Another, which succeeded brilliantly, was to formulate QED
+directly in terms of interactions between particles, forgoing the
+heavy machinery of continuum field theory. That approach led
+Feynman to his cartoon-like “Feynman diagram” depiction of fun-
+damental processes, and to rules for calculating with them. Using
+this technique, Feynman found that he calculated predictions for
+physical processes easily, in a few lines, where conventional tech-
+niques required many pages of laborious calculation. Yet, though
+his starting point seemed totally different, Feynman found in a host
+of examples that he always reproduced the conventional results,
+just more efficiently. Soon he convinced himself that his technique
+was an advantageous reorganization of Dirac’s QED, rather than a
+new theory. This came as a disappointment to him.
+   Importantly, though, the diagram technique allowed one to tame
+QED’s problematic infinities. Roughly speaking, Feynman’s idea
+
+                                 6
+                            Foreword
+(known as renormalization theory) is that if one organizes the cal-
+culations properly, to express relationships only among physically
+observable quantities, then the infinities do not appear. The most
+convenient formulation of the theory contains many idealized ob-
+jects, which cannot be measured. We have to give up the idea that
+the theory gives sensible (i.e., finite) predictions for the behavior
+of such objects. But if we can keep our eyes on the prize, and
+look only at physical questions, then (according to renormaliza-
+tion theory) we will see only finite quantities. Feynman’s diagram
+technique, because of its relative simplicity, made it possible to
+show how this actually worked in QED. Feynman himself worked
+it out in simple cases, and Freeman Dyson proved it in general.
+    Feynman and Dyson thus made it possible to calculate more
+accurate answers in QED. Meanwhile, postwar developments in
+precision spectroscopy and microwave technology made possible
+more accurate experimental measurements of basic QED pro-
+cesses. In one of the crowning triumphs of physics, theory and
+experiment agreed. And this triumph has endured: decades later,
+QED continues to stand as the most precise and accurate theory in
+physical science.
+    Feynman made several other major contributions to what we
+might call hardcore fundamental physics. The V-A theory of weak
+interactions, which he developed together with his colleague Mur-
+ray Gell-Mann, was an important stepping-stone toward the mod-
+ern “standard model.” Feynman especially treasured it, because
+(to his mind) it was the one time in his career that he proposed a
+fundamentally new physical behavior that was subsequently ob-
+served.
+    Most physicists, however, would probably rank his invention of
+the parton model more highly. In the late 1960s, when he proposed
+it, quarks were a rough and somewhat problematic construct used
+to organize the zoo of strongly interacting particles, where gluons
+were no more than a funny name for a mystery. Feynman, benefit-
+ing from his unmatched experience with QED, analyzed the kind
+of experiments—so-called deep inelastic scattering—that could
+reveal the existence and properties of simple constituent particles
+inside protons and neutrons (which he called, noncommittally,
+partons). Some partons, it turned out, could be identified with
+
+                                 7
+                            Foreword
+quarks. And close analysis of their behavior, building on parton
+model ideas, led directly to modern QCD.
+   Feynman’s “imagination in a straitjacket” led him to original
+ways of formulating known physics. These include the path inte-
+gral formulation of quantum mechanics, the influence functional
+for interacting quantum systems, and the ordered operator calcu-
+lus. Path integrals, after being regarded for several years as a mere
+curiosity, have come to life as a centerpiece of modern theoretical
+physics. They are, specifically, the way we teach computers how
+to do QCD. I expect that operator calculus and influence function-
+als—brilliantly original, yet in hindsight utterly simple, natural
+ideas—might likewise blossom.
+   In his boyhood Feynman was locally renowned for radio repair.
+He never lost his love for direct involvement with physical reality,
+and for technology. In these realms, he was a visionary. His after-
+dinner talk of 1959, “There’s Plenty of Room at the Bottom,” was
+a harbinger of nanotechnology, and still makes interesting read-
+ing today. (Freely available on the Internet, it makes an excellent
+follow-up to The Character of Physical Law.) In 1982 he sketched
+the possibility of “quantum computers,” which could exploit quan-
+tum behavior to do computations much more efficiently than exist-
+ing computers. Both nanotechnology and quantum computing are
+vibrant fields today.
+   Feynman became a public celebrity with his performance on
+the commission investigating the Challenger disaster, where he
+used a glass of ice water to highlight the cause—seals that failed at
+low temperatures (i.e., in cold weather).
+   Feynman wrote many books. Most are intended for researchers,
+but several were meant to be more broadly accessible. The latter
+range from entertaining collections of personal anecdotes to QED:
+The Strange Theory of Light and Matter, which is a brave attempt
+to present QED from scratch. But I think that the book you have in
+your hands, The Character of Physical Law, written at the height
+of his power, is Feynman’s popular masterpiece—and that it is the
+single best introduction to modern physics, altogether.
+
+
+
+
+                                 8
+                       Foreword
+The seven chapters which make up this book were lectures
+presented as the Messenger Lectures at Cornell University
+in the United States. They were delivered to an audience of
+students who wished to know in general terms more about
+'The Character of Physical Law'. The lectures were not
+given from a prepared manuscript, but were delivered
+extempore from a few notes.
+   The Messenger Lectures have taken place annually at
+Cornell since 1 924, when Hiram J. Messenger, a graduate
+and professor of Mathematics, gave a sum of money to en­
+courage eminent personalities from anywhere in the world
+to visit Cornell and talk to the students. In establishing the
+fund for the lectures Messenger specified that it is 'to provide
+a course or courses of lectures on the evolution of civilization
+for the special purpose of raising the moral standard of our
+political, business and social life'.
+   In November Professor Richard P. Feynman, the distin­
+guished physicist and educator, was invited to give the 1 964
+lectures. He was formerly a professor at Cornell and is now
+Professor of Theoretical Physics at California Institute of
+Technology. He has recently been made a Foreign Member
+of the Royal Society, and is noted not only for his contribu­
+tion to present day understanding of the laws of physics,
+but also for his ability to bring his subject alive to the
+non-physicist.
+    The chapters in this book are reports of talks which were
+presented to a packed audience from a large stage which
+ allowed Professor Feynman uninhibited expression of speech
+ and movement. He has international prominence as a
+ lecturer, and is known for his exciting platform manner.
+
+                               9
+                           Foreword
+This book is intended to serve as a guide or memory aid
+for television viewers who may see the lectures and wish to
+have a permanent reminder to refer to. Although it is not
+in any way to be regarded as a textbook, the student of
+physics in search of a clearer understanding of the laws
+will be enlightened by many of the arguments.
+   Richard Feynman is already known to BBC- 1 as one of
+the physicists in Philip Daly's production 'Men at the Heart
+of Matter' and for his splendid contribution to 'Strangeness
+minus three', one of the most fascinating programmes on
+recent scientific discovery in 1 964.
+   The B B C Science and Features Department became in­
+terested when it was known that Professor Feynman was to
+give the Messenger Lectures. The series is being presented
+in B B C-2, as part of the Further Education Scheme,
+and continues in the style of the lectures already given by
+such distinguished men as Bondi on Relativity, Kendrew on
+Molecula r Biology, Morrison on Quantum Mechanics and
+Porter on Thermodynamics.
+   What you are about to read is a transcription of the lec­
+tures. They have been checked for scientific accuracy by
+Professor Feynman. My assistant Fiona Holmes and I have
+assembled the spoken words so that they are now set down
+in print. We hope that this book will be acceptable to you.
+To have worked with Richard Feynman has been a re­
+warding experience, and we trust that viewers and readers
+will gain much from this project.
+                   Alan Sleath , Producer BBC Outside Broadcasts
+                   Science and Features Department, June 1965
+
+The BBC is grateful to the Cornell University News Bureau for
+permission to reproduce Plate 2, and to the California Institute
+of Technology for permission to reproduce other photographs
+and drawings used in Lecture 1.
+   Students who wish to make a more detailed study of Professor
+Feynman's work will be interested to know that the books referred
+to by the Provost in his introduction are published by California
+Institute of Technology and are entitled The Feynman Lectures
+in Physics.
+
+
+                               10
+          The Provost of Cornell University
+                  DALE R. CORSON
+        introduces the Messenger Lecturer for 1 964
+
+Ladies and gentlemen, it is my privilege to introduce the
+Messenger Lecturer, Professor Richard P. -Feynman of
+California Institute of Technology.
+   Professor Feynman is a distinguished theoretical physicist,
+and has done much to bring order out of the confusion
+which has marked much of the spectacular development in
+physics during the postwar period. Among his honours and
+awards I will mention only the Albert Einstein Award in
+1 954. This is an award which is made every third year, and
+which includes a gold medal and a substantial sum of
+money.
+   Professor Feynman did his undergraduate work at M. l .T.
+and his graduate work at Princeton. He worked on the Man­
+hattan Project at Princeton and later at Los Alamos. He was
+appointed an Assistant Professor at Cornell in 1 944, al­
+though he did not assume residence until the end of the
+War. I thought it might be interesting to see what was said
+about him when he was appointed at Cornell, so I searched
+the Minutes of our Board of Trustees . . . and there is
+absolutely no record of his appointment. There are, how­
+ever, some twenty references to leaves of absence, salary
+increases, and promotions. One reference interested me
+especially. On July 31st 1 945 the Chairman of the Physics
+Department wrote to the Dean of the Arts College stating
+that 'Dr Feynman is an outstanding teacher and investi­
+gator, the equal of whom develops infrequently'. The Chair­
+man suggested that an annual salary of three thousand
+dollars was a bit too low for a distinguished faculty member,
+and recommended that Professor Feynman's salary be in­
+creased nine hundred dollars. The Dean, in an act of
+
+                             11
+    Introduction by the Provost of Cornell University
+unusual generosity, and with complete disregard for the
+solvency of the University, crossed out the nine hundred
+dollars and made it an even thousand. You can see that
+we thought highly of Professor Feynman even then!
+Feynman took up residence here at the end of 1945, and
+spent five highly productive years on our Faculty. He left
+Cornell in 1950 and went to Cal. Tech., where he has been
+ever since.
+   Before I let him talk, I want to tell you a little more about
+him. Three or four years ago he started teaching a begin­
+ning physics course at Cal. Tech., and the result has added
+a new dimension to his fame - his lectures are now pub­
+lished in two volumes and they represent a refreshing
+approach to the subject.
+   In the preface of the published lectures there is a picture
+of Feynman performing happily on the bongo drums. My
+Cal. Tech. friends tell me he sometimes drops in on the Los
+Angeles night spots and takes over the work of the drummer;
+but Professor Feynman tells me that is not so. Another of
+his specialities is safe cracking. One legend says that he
+once opened a locked safe in a secret establishment, re­
+moved a secret document, and left a note saying 'Guess
+who?' I could tell you about the time he learned Spanish
+before he went to give a series of lectures in Brazil, but I
+won't.
+   This gives you enough background, I think, so let me
+say that I am delighted to welcome Professor Feynman
+back to Cornell. His general topic is 'The Character of
+Physical Law', and his topic for tonight is 'The Law of
+Gravitation, an Example of Physical Law'.
+
+
+
+
+                              12
+                               1

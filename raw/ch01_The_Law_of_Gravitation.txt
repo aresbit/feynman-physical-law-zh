@@ -1,0 +1,907 @@
+   The Law of Gravitation, an example of
+                      Physical Law
+
+It is odd, but on the infrequent occasions when I have been
+called upon in a formal place to play the bongo drums, the
+introducer never seems to find it necessary to mention that
+I also do theoretical physics. I believe that is probably be­
+cause we respect the arts more than the sciences. The artists
+of the Renaissance said that man's main concern should be
+for man, and yet there are other things of interest in the
+world. Even the artists appreciate sunsets, and the ocean
+waves, and the march of the stars across the heavens. There
+is then some reason to talk of other things sometimes. As
+we look into these things we get an aesthetic pleasure from
+them directly on observation. There is also a rhythm and a
+pattern between the phenomena of nature which is not
+apparent to the eye, but only to the eye of analysis; and it
+is these rhythms and patterns which we call Physical Laws.
+What I want to discuss in this series of lectures is the general
+characteristic of these Physical Laws; that is another level,
+if you will, of higher generality over the laws themselves.
+Really what I am considering is nature as seen as a result of
+detailed analysis, but mainly I wish to speak about only the
+most overall general qualities of nature.
+   Now such a topic has a tendency to become too philo­
+sophical because it becomes so general, and a person talks
+in such generalities, that everybody can understand him. It
+is then considered to be some deep philosophy. I would like
+to be rather more special, and I would like to be understood
+in an honest way rather than in a vague way. So in this
+first lecture I am going to try to give, instead of only the
+
+                              13
+               The Character of Physical Law
+generalities, an example of physical law, so that you have at
+least one example of the things about which I am speaking
+generally. In this way I can use this example again and again
+to give an instance, or to make a reality out of something
+which will otherwise be too abstract. I have chosen for my
+special example of physical law the theory of gravitation, the
+phenomena of gravity. Why I chose gravity I do not know.
+Actually it was one of the first great laws to be discovered
+and it has an interesting history. You may say, 'Yes, but
+then it is old hat, I would like to hear something about a
+more modern science' . More recent perhaps, but not more
+modern. Modern science is exactly in the same tradition as
+the discoveries of the Law of Gravitation. It is only more
+recent discoveries that we would be talking about. I do not
+feel at all bad about telling you about the Law of Gravita­
+tion because in describing its history and methods, the
+character of its discovery, its quality, I am being completely
+modern.
+   This law has been called 'the greatest generalization
+achieved by the human mind', and you can guess already
+from my introduction that I am interested not so much in
+the human mind as in the marvel of a nature which can
+obey such an elegant and simple law as this law of gravi­
+tation. Therefore our main concentration will not be on how
+clever we are to have found it all out, but on how clever
+nature is to pay attention to it.
+   The Law of Gravitation is that two bodies exert a force
+upon each other which varies inversely as the square of the
+distance between them, and varies directly as the product of
+their masses. Mathematically we can write that great law
+down in the formula :
+                                         ,
+
+                         F:: G.!!!.
+                                  ,.a.
+
+some kind of a constant multiplied by the product of the
+two masses, divided by the square of the distance. Now
+if I add the remark that a body reacts to a force by
+accelerating, or by changing its velocity every second to an
+
+                             14
+ The Law of Gravitation, an example of Physical Law
+extent inversely as its mass, or that it changes its velocity
+more if the mass is lower, inversely as the mass, then I have
+said everything about the Law of Gravitation that needs to
+be said. Everything else is a mathematical consequence of
+those two things. Now I know that you are not all mathe­
+maticians, and you cannot immediately see all of the con­
+sequences of these two remarks, so what I would like to do
+here is to tell you briefly of the story of the discovery, what
+some of the consequences are, what effect this discovery had
+on the history of science, what kind of mysteries such a law
+entails, something about the refinements made by Einstein,
+and possibly the relation to the other laws of physics.
+   The history of the thing, briefly, is this. The ancients first
+observed the way the planets seemed to move in the sky and
+concluded that they all, along with the earth, went around
+the sun. This discovery was later made independently by
+Copernicus, after people had forgotten that it had already
+been made. Now the next question that came up for study
+was: exactly how do they go around the sun, that is, with
+exactly what kind of motion? Do they go with the sun as
+the centre of a circle, or do they go in some other kind of
+curve? How fast do they move? And so on. This discovery
+took longer to make. The times after Copernicus were times
+in which there were great debates about whether the planets
+in fact went around the sun along with the earth, or whether
+the earth was at the centre of the universe and so on. Then
+a man named Tycho Brahe* evolved a way of answering the
+question. He thought that it might perhaps be a good idea
+to look very very carefully and to record exactly where the
+planets appear in the sky, and then the alternative theories
+might be distinguished from one another. This is the key of
+modern science and it was the beginning of the true under­
+standing of Nature - this idea to look at the thing, to record
+the details, and to hope that in the information thus ob­
+tained might lie a clue to one or another theoretical inter­
+pretation. So Tycho, a rich man who owned an island near
+
+*Tycho Brahe, 1546-1601, Danish astronomer.
+
+
+                               15
+              The Character of Physical Law
+Copenhagen, outfitted his island with great brass circles and
+special observing positions, and recorded night after night
+the position of the planets. It is only through such hard work
+that we can find out anything.
+   When all these data were collected they came into the
+hands of Kepler,* who then tried to analyse what kind of
+motion the planets made around the sun. And he did this by
+a method of trial and error. At one stage he thought he had
+it; he figured out that they went round the sun in circles
+with the sun off centre. Then Kepler noticed that one
+planet, I think it was Mars, was eight minutes of arc off, and
+he decided this was too big for Tycho Brahe to have made
+an error, and that this was not the right answer. So because
+of the precision of the experiments he was able to proceed
+to another trial and ultimately found out three things.
+   First, he found that the planets went in ellipses around the
+sun with the sun as a focus. An ellipse is a curve all artists
+know about because it is a foreshortened circle Children
+                                                    .
+
+
+
+also know because someone told them that if you put a
+ring on a piece of cord, anchored at each end, and then put
+ a pencil in the ring, it will draw an ellipse (fig. 1).
+
+
+
+
+                            Figure 1
+
+
+The two points A and B are the foci. The orbit of a planet
+aro-und the sun is an ellipse with the sun at one focus. The
+
+
+*Johann Kepler, 1571-1630, German astronomer and mathematician,
+assistant t0- Brahe.
+
+
+                              16
+  The La.w of Gravitation� an example of Physical Law
+next question is: In going around the ellipse, how does the
+planet go ? Does it go faster when it is near the sun ? Does it
+go slower when it is farther from the sun ? Kepler found the
+answer to this too (fig. 2).
+
+
+
+
+                            Figure 2
+
+
+He found that, if you put down the position of a planet at
+two times, separated by some definite period, let us say three
+weeks - then in another place on its orbit two positions of
+the planet again separated by three weeks, and draw lines
+(technically called radius vectors) from the sun to the planet,
+then the area that is enclosed in the orbit of the planet and
+the two lines that arc separated by the planet's position
+three weeks apart is the same, in any part of the orbit. So
+that the planet has to go faster when it is closer to the sun,
+and slower when it is farther away, in order to show pre­
+cisely the same area.
+   Some several years later Kepler found a third rule, which
+was not concerned only with the motion of a single planet
+around the sun but related various planets to each other.
+It said that the time the planet took to go all around the sun
+was related to the size of the orbit, and that the times varied
+as the square root of the cube of the size of the orbit and for
+this the size of the orbit is the diameter across the biggest
+distance on the ellipse. Kepler then had these three Jaws
+which are summarized by saying that the orbit forms an
+ellipse, and that equal areas are swept ir. equal times and
+
+                              17
+               The Character of Physical Law
+that the time to go round varies as a three half power of the
+size, that is, the square root of the cube of the size. These
+three laws of Kepler give a complete description of the
+motion of the planets around the sun.
+   The next question was - what makes planets go around
+the sun ? At the time of Kepler some people answered this
+problem by saying that there were angels behind them beat­
+ing their wings and pushing the planets around an orbit.
+As you will see, the answer is not very far from the truth.
+The only difference is that the angels sit in a different direc­
+tion and their wings push inwards.
+   In the meantime, Galileo was investigating the laws of
+motion of ordinary objects at hand on the earth. In study­
+ing these laws, and doing a number of experiments to see
+how balls run down inclined planes, and how pendulums
+swing, and so on, Galileo discovered a great principle
+called the principle of inertia, which is this : that if an object
+has nothing acting on it and is going along at a certain
+velocity in a straight line it will go at the same velocity in
+exactly the same straight line for ever. Unbelievable as that
+may sound to anybody who has tried to make a ball roll for
+ever, if this idealization were correct, and there were no in­
+fluences acting, such as the friction of the floor and so on,
+the bali would go at a uniform speed for ever.
+   The next point was made by Newton, who discussed the
+question: 'When it does not go in a straight line then what ?'
+And he answered it this way: that a force is needed to change
+the velocity in any manner. For instance, if you are pushing
+a ball in the direction that it moves it will speed up. If you
+find that it changes direction, then the force must have been
+sideways. The force can be measured by the product of two
+effects. How much does the velocity change in a small in­
+terval of time ? That's called the acceleration, and when it is
+multiplied by the coefficient called the mass of an object, or
+its inertia coefficient, then that together is the force. One
+can measure this. For instance, if one has a stone on the end
+of a string and swings it in a circle over the head, one finds
+one has to pull, the reason is that although the speed is not
+
+                               18
+  The Law of Gravitation, an example of Physical Law
+changing as it goes round in a circle, it is changing its direc­
+tion; there must be a perpetually in-pulling force, and this is
+proportional to the mass. So that if we were to take two
+different objects, and swing first one and then the other at
+the same speed around the head, and measure the force in
+the second one, then that second force is bigger than the
+other force in proportion as the masses are different. This is
+a way of measuring the masses by what force is necessary to
+change the speed. Newton saw from this that, to take a
+simple example, if a planet is going in a circle around the
+sun, no force is needed to make it go sideways, tangentially;
+if there were no force at all then it would just keep coasting
+along. But actually the planet does not keep coasting along,
+it finds itself later not way out where it would go if there
+were no force at all, but farther down towards the sun.
+
+
+
+            --�---1• Motiott wiht M �
+                         Jt--rie-recnorl m: Mor1cm
+                                ftorvt �n'All.lif LINE
+
+
+                            �lTIJAL.. MOTIOt-1.
+                            Figure 3
+
+
+
+(fig. 3.) In other words, its velocity, its motion, has been
+deflected towards the sun. So that what the angels have
+to do is to beat their wings in towards the sun all the time.
+   But the motion to keep the planet going in a straight line
+has no known reason. The reason why things coast for ever
+has never been found out. The law of inertia has no known
+origin. Although the angels do not exist the continuation of
+the motion does, but in order to obtain the falling operation
+we do need a force. It became apparent that the origin of
+the force was towards the sun. As a matter of fact Newton
+was able to demonstrate that the statement that equal areas
+are swept in equal times was a direct consequence of the
+
+                               19
+              The Character of Physical Law
+simple idea that all the changes in velocity are directed
+exactly towards the sun, even in the elliptical case, and in
+the next lecture I shall be able to show you how it works, in
+detail.
+   From this law Newton confirmed the idea that the force
+is towards the sun, and from knowing how the periods of
+the different planets vary with the distance away from the
+sun, it is possible to determine how that force must weaken
+at different distances. He was able to determine that the
+force must vary inversely as the square of the distance.
+   So far Newton has not said anything, because he has only
+stated two things which Kepler said in a different language.
+One is exactly equivalent to the statement that the force is
+towards the sun, and the other is exactly equivalent to the
+statement that the force is inversely as the square of the
+distance.
+   But people had seen in telescopes Jupiter's satellites going
+around Jupiter, and it looked like a li ttle solar system, as if
+the satellites were attracted to Jupiter. The moon is attracted
+to the earth and goes round the earth and is attracted in the
+same way. It looks as though everything is attracted to every­
+thing else, and so the next statement was to generalize this
+and to say that every object attracts every object. If so, the
+earth must be pulling on the moon, just as the sun pulls on
+the planet. But it is known that the earth is pulling on things­
+because you are all sitting tightly on your seats in spite of
+your desire to float into the air. The pull for objects on the
+earth was well known in the phenomena of gravitation, and
+it was Newton's idea that maybe the gravitation that held
+the moon in orbit was the same gravitation that pulled the
+object towards the earth.
+   It i s easy to figure out how far the moon falls in one
+second, because you know the size of the orbit, you know
+the moon takes a month to go around the earth, and if you
+figure out how far it goes in one second you can figure out
+how far the circle of the moon's orbit has fallen below the
+straight line that it would have been in if it did not go the
+way it does go. This distance is one twentieth of an inch.
+
+                              20
+ The La.w of Gravitation, an example of Physical La.w
+Th e moon is sixty times as far away from the earth's centre
+as we are; we are 4,000 miles away from the centre, and the
+moon is 240,000 miles away from the centre, so if the law of
+inverse square is right , an object at the earth's surface
+should fall in one second by lo inch x 3,600 (the square of
+60) because the force in getting out there to the moon, has
+been weakened by 60 x 60 by the inverse square law.
+210 in c h x 3,600 is about 16 feet, and it was known already
+
+from Galileo's measurements that things fall in one second
+on the earth's surface by 16 feet. So this meant that Newton
+was on the right track, there was no going back now, be­
+cause a new fact which was completely independent pre­
+viously, the period of the moon's orbit and its distance
+from the earth, was connected to another fact, how long it
+takes something to fall in one second at the earth's surface.
+This was a dramatic test that everything is all right                   .
+
+
+
+   Further, Newton had a lot of other predictions. He was
+able to calculate what the shape of the orbit should be if
+the law were the inverse square, and he found, indeed, that
+it was an ellipse - so he
+
+                                    0                                   oMnw
+got three for two as it
+were. In addition, a num­
+ber of new phenomena              wate.r �1tlle.A pavtti1
+had obvious explanations.         Jo,,.J:JAj Mi,,., ea.rti. b.j �111\
+One was the tides. The
+tides were due to the pull
+
+
+
+                                 @
+of the moon on the earth
+and its waters. This had                                                0
+sometimes been thought
+of before, with the diffi-      eMI\ �11nu PcHt"'1
+culty that if it was the pull   �wa� � wate.-s b� � .
+
+of the moon on the
+waters, making the water
+                                                                   0
+higher on the side where
+the moon was, then there
+would only be one tide a        Clc.t.t.t.l-1 .Si.l:uatiOlo\.
+day under the moon (fig.
+4), but actually we know                             Figure 4
+
+
+                                 21
+             The Character of Physical Law
+there are tides roughly every twelve hours, and that is two
+tides a day. There was also another school of thought that
+came to a different conclusion. Their theory was that it was
+the earth pulled by the moon away from the water. Newton
+was actually the first one to realize what was going on; that
+the force of the moon on the earth and on the water is the
+same at the same distance, and that the water at y is
+closer to the moon and the water at x is farther from the
+moon than the rigid earth. The water is pulled more towards
+the moon at y, and at x is less towards the moon than
+the earth, so there is a combination of those two pictures
+that makes a double tide. Actually the earth does the same
+trick as the moon, it goes around in a circle. The force of
+the moon on the earth is balanced, but by what ? By the fact
+that just as the moon goes in a circle to balance the earth's
+force, the earth is also going in a circle. The centre of the
+circle is somewhere inside the earth. It is also going in a
+circle to balance the moon. The two of them go around a
+common centre so the forces are balanced for the earth, but
+the water at x is pulled less, and at y more by the moon and
+it bulges out at both sides. At any rate tides were then ex­
+plained, and the fact that there were two a day. A lot of
+other things became clear: how the earth is round because
+everything gets pulled in , and how it is not round because
+it is spinning and the outside gets thrown out a little bit,
+and it balances ; how the sun and moon are round, and so
+on.
+   As science developed and measurements were made more
+accurate, the tests of Newton's Law became more stringent,
+and the first careful tests involved the moons of Jupiter.
+By accurate observations of the way they went around over
+long periods of time one could check that everything was
+according to Newton, and it turned out to be not the case.
+The moons of Jupiter appeared to get sometimes eight
+minutes ahead of time and sometimes eight minutes behind
+time, where the time is the calculated value according to
+Newton's Laws. It was noticed that they were ahead of
+schedule when Jupiter was close to the earth and behind
+
+                             22
+ The Law of Gravitation, an example of Physical Law
+schedule when it was far away, a rather odd circumstance.
+Mr Roemer,* having confidence in the Law of Gravita­
+tion, came to the interesting conclusion that it takes light
+some time to travel from the moons of Jupiter to the earth,
+and what we are looking at when we see the moons is not
+how they are now but how they were the time ago it took
+the light to get here. When Jupiter is near us it takes less
+time for the light to come, and when Jupiter is farther from
+us it takes longer time, so Roemer had to correct the obser­
+vations for the differences in time and by the fact that they
+were this much early or that much late. In this way he was
+able to determine the velocity of light. This was the first
+demonstration that light was not an instantaneously propa­
+gating material.
+   I bring this particular matter to your attention because it
+illustrates that when a law is right it can be used to find
+another one. If we have confidence in a law, then if some­
+thing appears to be wrong it can suggest to us another
+phenomenon. If we had not known the Law of Gravitation
+we would have taken much longer to find the speed of light,
+because we would not have known what to expect of
+Jupiter's satellites. This process has developed into an
+avalanche of discoveries, each new discovery permits the
+tools for much more discovery, and this is the beginning of
+the avalanche which has gone on now for 400 years in a
+continuous process, and we are still avalanching along at
+high speed.
+   Another problem came up- the planets should not really
+go in ellipses, because according to Newton's Laws they are
+not only attracted by the sun but also they pull on each
+other a little - only a little, but that little is something, and
+will alter the motion a little bit. Jupiter, Saturn and Uranus
+were big planets that were known, and calculations were
+made about how slightly different from the perfect ellipses
+of Kepler the planets ought to be going by the pull of each
+on the others. And at the end of the calculations and obser­
+vations it was noticed that Jupiter and Saturn went according
+•otaus Roemer, 1644-1 710, Danish astronomer.
+
+                               23
+              The Character of Physical Law
+to the calculations, but that Uranus was doing something
+funny. Another opportunity for Newton's Laws to be
+found wanting; but take courage! Two men, Adams and
+Leverrier, * who made these calculations independently and
+at almost exactly the same time, proposed that the motions
+of Uranus were due to an unseen planet, and they wrote
+letters to their respective observatories telling them - 'Turn
+your telescope and look there and you will find a planet'.
+'How absurd,' said one of the observatories, 'some guy
+sitting with pieces of paper and pencils can tell us where to
+look to find some new planet.' The other observatory was
+more . . . well, the administration was different, and they
+found Neptune!
+   More recently, in the beginning of the twentieth century,
+it became apparent that the motion of the planet Mercury
+was not exactly right. This caused a lot of trouble and was
+not explained until it was shown by Einstein that Newton's
+Laws were slightly off and that they had to be modified.
+   The question is, how far does this law extend ? Does it
+extend outside the solar system ? And so I show on Plate 1
+evidence that the Law of Gravitation is on a wider scale
+than just the solar system. Here is a series of three pictures
+of a so-called double star. There is a third star fortunately in
+the picture so that you can see they are really turning around
+and that nobody simply turned the frames of the pictures
+ around, which is easy to do on astronomical pictures. The
+stars are actually going around, and you can see the orbit
+that they make on figure 5. It is evident that they are attrac­
+ting each other and that they are going around in an ellipse
+according to the way expected. These are a succession of
+positions at various times going around clockwise. You will
+be happy except when you notice, if you have not noticed
+ already, that the centre is not a focus of the ellipse but is
+ quite a bit off. So something is the matter with the law ? No,
+ God has not presented us with this orbit face-on ; it is tilted
+
+*John Couch Adams, 1 819-92, mathematical astronomer. Urbain
+Leverrier, 1811-77, French astronomer.
+
+
+                              24
+                                                            21 July, 1908
+
+
+
+
+                                                             September, 1915
+
+
+
+
+                                                            10 July, 1920
+
+
+
+
+Plate   1.   Three   photographs   taken   at   different   times   of   the   same
+
+double star system.
+Plate 2. A globular star cluster
+
+
+
+
+ Plate 3. A spiral galaxy
+Plate 4. A cluster of galaxies
+
+
+
+
+Plate 5. A gaseous nebula
+                                                 1947
+
+
+
+
+                                                 1954
+
+
+
+
+Plate 6. Evidence of the creation of new stars
+  The Law of Gravitation, an example of Physical Law
+
+
+
+
+                                            '-
+                                            '
+
+
+
+
+            f,,,1,,,,f   r     r        r       ,   r   ,   r
+                             SCALE.
+
+
+                             Figure 5
+
+
+at a funny angle. If you take an ellipse and mark its focus
+and hold the paper at an odd angle and look at it in pro­
+jection, you will find that the focus does not have to be at
+the focus of the projected image. It is because the orbit is
+tilted in space that it looks that way.
+   How about a bigger distance ? This force is between two
+stars ; does it go any farther than distances which are not
+more than two or three times the solar system's diameter?
+Here is something in plate 2 that is 100,000 times as big
+as the solar system in diameter ; this is a tremendous number
+of stars. This large white spot is not a solid white spot; it
+appears like that because of the failure of the instruments to
+resolve it, but there are very very tiny spots just like other
+stars, well separated from each other, not hitting one
+another, each one falling through and back and forth in this
+great globular cluster. It is one of the most beautiful things
+in the sky ; it is as beautiful as sea waves and sunsets. The
+distribution of this material is perfectly clear. The thing
+
+                              25
+              The Character of Physical Law
+that holds this galaxy together is the gravitational attraction
+of the stars for each other. The distribution of the material
+and the sense of distance permits one to find out roughly
+what the law of force is between the stars . . . and, of course,
+it comes out that it is roughly the inverse square. Accuracy
+in these calculations and measurements is not anywhere
+near as careful as in the solar system.
+   Onward, gravity extends still farther. That cluster was just
+a little pin-point inside the big galaxy in plate 3, which
+shows a typical galaxy, and it is clear that again this thing
+is held together by some force, and the only candidate that
+is reasonable is gravitation. When we get to this size we have
+no way of checking the inverse square law, but there seems
+to be no doubt that in these great agglomerations of stars
+- these galaxies are 50,000 to 1 00,000 light years across,
+while the distance from the earth to the sun is only eight
+light minutes- gravity is extending even over these distances.
+In plate 4 is evidence that it extends even farther. This is
+what is called a cluster of galaxies; they are all in one lump
+and analogous to the cluster of stars, but this time what is
+clustered are those big babies shown in plate 3.
+   This is as far as about one tenth, maybe a hundredth, of
+the size of the Universe, as far as we have any direct evidence
+that gravitational forces extend. So the earth's gravitation
+has no edge, although you may read in the papers that
+something gets outside the field of gravitation. It becomes
+weaker and weaker inversely as the square of the distance,
+divided by four each time you get twice as far away, until it
+is lost in the confusion of the strong fields of other stars.
+Together with the stars in its neighbourhood it pulls the
+other stars to form the galaxy, and all together they pull on
+other galaxies and make a pattern, a cluster, of galaxies.
+So the earth's gravitational field never ends, but peters out
+very slowly in a precise and careful law, probably to the
+edges of the Universe.
+  The Law of Gravitation is different from many of the
+others. Clearly it is very important in the economy, in the
+machinery, of the Universe; there are many places where
+
+                              26
+   The Law of Gravitation, an example of Physical Law
+. gravity has its practical applications as far as the Universe
+  is concerned. But atypically the knowledge of the Laws of
+  Gravitation has relatively few practical applications com­
+  pared with the other laws of physics. This is one case where
+  I have picked an atypical example. It is impossible, by the
+  way, by picking one of anything to pick one that is not
+  atypical in some sense. That is the wonder of the world. The
+  only applications of the knowledge of the law that I can
+  think of are in geophysical prospecting, in predicting the
+  tides, and nowadays, more modernly, in working out the
+  motions of the satellites and planet probes that we send up,
+  and so on; and finally, also modernly, to calculate the pre­
+  dictions of the planets' positions, which have great utility
+  for astrologists who publish their predictions in horoscopes
+  in the magazines. It is a strange world we live in - that all
+  the new advances in understanding are used only to con­
+  tinue the nonsense which has existed for 2,000 years.
+     I must mention the important places where gravitation
+  does have some real effect in the behaviour of the Universe,
+  and one of the interesting ones is in the formation of new
+  stars. Plate 5 is a gaseous nebula inside our own galaxy;
+  it is not a lot of stars; it is gas. The black specks are
+  places where the gas has been compressed or attracted to
+  itself. Perhaps it starts by some kind of shock waves, but
+  the remainder of the phenomenon is that gravitation pulls
+  the gas closer and closer together so that big mobs of gas
+  and dust collect and form balls; and as they fall still farther,
+  the heat generated by falling lights them up, and they be­
+  come stars. And we have in plate 6 some evidence of the
+  creation of new stars.
+     So this is how stars are born, when the gas collects to­
+  gether too much by gravitation. Sometimes when they
+ explode the stars belch out dirt and gases, and the dirt and
+ gases collect back again and make new stars - it sounds like
+ perpetual motion.
+    I have already shown that gravitation extends to great
+ distances, but Newton said that everything attracted every­
+ thing else. Is it really true that two things attract each other?
+
+                                27
+              The Character of Physical Law
+Can we make a direct test and not just wait to see whether
+the planets attract each other? A direct test was made by
+Cavendish* on equipment which you see indicated in figure
+6. The idea was to hang by a very very fine quartz fibre a
+
+
+
+
+                             Figure 6
+
+
+rod with two balls, and then put two large lead balls in
+the positions indicated next to it on the side. Because of the
+attraction of the balls there would be a slight twist to the
+fibre, and the gravitational force between ordinary things
+is very very tiny indeed. It was possible to hieasure the
+force between the two balls. Cavendish called his experiment
+· weighing the earth'. With pedantic and careful teaching
+today we would not let our students say that; we would
+have to say 'measuring the mass of the earth'. By a direct
+experiment Cavendish was able to measure the force, the
+two masses and the distance, and thus determine the gravi­
+tational constant, G. You say, 'Yes, but we have the same
+situation here. We know what the pull is and we know what
+the mass of the object pulled is, and we know how far away
+we are, but we do not know either the mass of the earth or
+*Henry Cavendish, 1731-1810, English physicist and chemist.
+
+
+                               28
+ The Law of Gravitation, an example of Physical Law
+the constant, only the combination'. By measuring the con­
+stant, and knowing the facts about the pull of the earth, the
+mass of the earth could be determined.
+   Indirectly this experiment was the fir&t determination of
+how heavy or massive is the ball on which we stand. It is an
+amazing achievement to find that out, and I think that is
+why Cavendish named his experiment 'weighing the earth',
+instead of 'determining the constant in the gravitational
+equation'. He, incidentally, was weighing the sun and every­
+thing else at the same time, because the pull of the sun is
+known in the same manner.
+   One other test of the law of gravity is very interesting, and
+that is the question whether the pull is exactly proportional
+to the mass. If the pull is exactly proportional to the mass,
+and the reaction to force, the motions induced by forces,
+changes in velocity, are inversely proportional to the mass.
+That means that two objects of different mass will change
+their velocity in the same manner in a gravitational field ; or
+two diffet ent things in a vacuum, no matter what their mass,
+will fall the same way to the earth. That is Galileo's old
+experiment from the leaning tower of Pisa. It means, for
+example, that in a man-made satellite, an object inside will
+go round the earth in the same kind of orbit as one on the
+outside, and thus apparently float in the middle. The fact
+that the force is exactly proportional to the mass, and that
+the reactions are inversely proportional to the mass, has
+this very interesting consequence.
+   How accurate is it ? It was measured in an experiment by
+a man named Eotvos* in 1909 and very much more recently
+and more accurately by Dicke, t and is known to one part
+in 10,000,000,000. The forces are exactly proportional to
+the mass. How is it possible to measure with that accuracy ?
+Suppose you wanted to measure whether it is true for the
+pull of the sun. You know the sun is pulling us all, it pulls
+the earth too, but suppose you wanted to know whether the
+
+*Baron Roland von Eotvos, 1848-1919, Hungarian physicist.
+tRobert Henry Dicke, American physicist.
+
+
+                               29
+              The Character of Physical Law
+pull is exactly proportional to the inertia. The experiment
+was first done with sandalwood; lead and copper have been
+used, and now it is done with polyethylene. The earth is
+going around the sun, so the things are thrown out by
+inertia and they are thrown out to the extent that the two
+objects have inertia. But they are attracted to the sun to the
+extent that they have mass, in the attraction law. So if they
+are attracted to the sun in a different proportion from that
+thrown out by inertia, one will be pulled towards the sun,
+and the other away from it, and so, hanging them on oppo­
+site ends of a rod on another Cavendish quartz fibre, the
+thing will twist towards the sun. It does not twist at this
+accuracy, so we know that the sun's attraction to the two
+objects is exactly proportional to the centrifugal effect,
+which is inertia; therefore, the force of attraction on an
+object is exactly proportional to its coefficient of inertia;
+in other words, its mass.
+   One thing is particularly interesting. The inverse square
+law appears again - in the electrical laws, for instance.
+Electricity also exerts forces inversely as the square of the
+distance, this time between charges, and one thinks perhaps
+that the inverse square of the distance has some deep sig­
+nificance. No one has ever succeeded in making electricity
+and gravity different aspects of the same thing. Today our
+theories of physics, the laws of physics, are a multitude of
+different parts and pieces that do not fit together very well.
+We do not have one structure from which all is deduced; we
+have several pieces that do not quite fit exactly yet. That is
+the reason why in these lectures instead of having the ability
+to tell you what the law of physics is, I have to talk about the
+things that are common to the various laws; we do not
+understand the connection between them. But what is very
+strange is that there are certain things which are the same
+in both. Now let us look again at the law of electricity.
+   The force goes inversely as the square of the distance, but
+the thing that is remarkable is the tremendous difference in
+the strength of the electrical and gravitational forces. People
+who want to make electricity and gravitation out of the
+
+                              30
+  The Law of Gravitation, an example of Physical Law
+same thing will find that electricity is so much more powerful
+than gravity, it is hard to believe they could both have the
+same origin. How can I say one thing is more powerful than
+another ? It depends upon how much charge you have, and
+how much mass you have. You cannot talk about how
+strong gravity is by saying : 'I take a lump of such a size',
+because you chose the size. If we try to get something that
+Nature produces - her own pure number that has nothing
+to do with inches or years or anything to do with our own
+dimensions - we can do it this way. If we take a fundamental
+particle such as an electron - any different one will give a
+different number, but to give an idea say electrons - two
+electrons are two fundamental particles, and they repel each
+other inversely as the square of the distance due to elec­
+tricity, and they attract each other inversely as the square
+of the distance due to gravitation.
+   Question : What is the ratio of the gravitational force to
+the electrical force ? That is illustrated in figure 7 . The ratio
+
+
+
+
+         Grud. ti• ., A f t r4diu 1
+         !Jed ,.-ic i i   R e/'"' l6i.on
+
+
+
+
+                                  Figure 7
+
+
+                                     31
+              The Character of Physical Law
+of the gravitational attraction to electrical repulsion is
+given by a number with 42 digits tailing off. Now therein
+lies a very deep mystery. Where could such a tremendous
+number come from ? If you ever had a theory from which
+both of these things are to come, how could they come in
+such disproportion ? What equation has a solution which
+has for two kinds of forces an attraction and repulsion with
+that fantastic ratio ?
+   People have looked for such a large ratio in other places.
+They hope, for example, that there is another large number,
+and if you want a large number why not take the diameter
+of the Universe to the diameter of a proton - amazingly
+enough it also is a number with 42 digits. And so an interes­
+ting proposal is made that this ratio is the same as the ratio
+of the size of the Universe to the diameter of a proton. But
+the Universe is expanding with time and that means that the
+gravitational constant is changing with time, and . although
+that is a possibility there is no evidence to indicate that it is
+a fact. There are several partial indications that the gravi­
+tational constant has not changed in that way. So this
+tremendous number remains a mystery.
+   To finish about the theory of gravitation, I must say two
+more things. One is that Einstein had to modify the Laws of
+Gravitation in accordance with his principles of relativity.
+The first of the principles was that 'x, cannot occur in­
+stantaneously, while Newton, s theory said that the force
+was instantaneous. He had to modify Newton, s laws. They
+have very small effects, these modifications. One of them
+is that all masses fall, light has energy and energy is equiva­
+lent to mass. So light falls and it means that light going near
+the sun is deflected; it is. Also the force of gravitation
+is slightly modified in Einstein's theory, so that the law has
+changed very very slightly, and it is just the right amount to
+account for the slight discrepancy that was found in the
+movement of Mercury.
+   Finally, in connection with the laws of physics on a small
+scale, we have found that the behaviour of matter on a
+small scale obeys laws very different from things on a large
+
+                               32
+  The Law of Gravitation, an example of Physical La w
+scale. So the question is, how does gravity look on a small
+scale ? That is called the Quantum Theory of Gravity. There
+is no Quantum Theory of Gravity today. People have not
+succeeded completely in making a theory which is consistent
+with the uncertainty principles and the quantum mechanical
+principles.
+   You will say to me, 'Yes, you told us what happens, but
+what is gravity ? Where does it come from ? What is it ? Do
+you mean to tell me that a planet looks at the sun, sees how
+far it is, calculates the inverse square of the distance and
+then decides to move in accordance with that law ?' In other
+words, although I have stated the mathematical law, I have
+given no clue about the mechanism. I will discuss the pos­
+sibility of doing this in the next lecture, 'The relation of
+mathematics to physics' .
+   In this lecture I would like to emphasize, j ust at the end ,
+some characteristics that gravity has in common with the
+other laws that we mentioned as we passed along. First, it
+is mathematical in its expression ; the others are that way
+too. Second, it is not exact ; Einstein had to modify it, and
+we know it is not quite right yet, because we have still to
+put the quantum theory in. That is the same with all our
+other laws - they are not exact. There is always an edge
+of mystery, always a place where we have some fiddling
+around to do yet. This may or may not be a property of
+Nature, but it certainly is common to all the laws as we
+know them today. It may be only a lack of knowledge.
+   But the most impressive fact is that gravity is simple. It is
+simple to state the principles completely and not have left
+any vagueness for anybody to change the ideas of the law.
+It is simple, and therefore it is beautiful. It is simple in its
+pattern. I do not mean it is simple in its action - the motions
+of the various planets and the perturbations of one on the
+other can be quite complicated to work out, and to follow
+how all those stars in a globular cluster move is quite beyond
+our ability. It is complicated in its actions, but the basic
+pattern or the system beneath the whole thing is simple.
+This is common to all our laws ; they all turn out to be
+
+                              33
+              The Character of Physical Law
+simple things, although complex in their actual actions.
+  Finally comes the universality of the gravitational law,
+and the fact that it extends over such enormous distances
+that Newton, in his mind, worrying about the solar system,
+was able to predict what would happen in an experiment of
+Cavendish, where Cavendish's little model of the solar
+system, two balls attracting, has to be expanded ten million
+million times to become the solar system. Then ten million
+million times larger again we find galaxies attracting each
+other by exactly the same law. Nature uses only the longest
+threads to weave her patterns, so each small piece of her
+fabric reveals the organization of the entire tapestry.
+
+
+
+
+                             34
+                              2

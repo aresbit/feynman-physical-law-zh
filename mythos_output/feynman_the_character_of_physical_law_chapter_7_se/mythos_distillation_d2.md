@@ -1,0 +1,1 @@
+I notice your message appears to be empty. How can I help you today? Whether you need code review, debugging, refactoring, or exploring the `cii-code` codebase -- just let me know what you'd like to work on.

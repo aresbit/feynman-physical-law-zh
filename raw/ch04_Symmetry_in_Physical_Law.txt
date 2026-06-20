@@ -1,0 +1,993 @@
+             Symmetry in Physical Law
+
+Symmetry seems to be absolutely fascinating to the human
+mind. We like to look at symmetrical things in nature, such
+as perfectly symmetrical spheres like planets and the sun, or
+symmetrical crystals like snowflakes, or flowers which are
+nearly symmetrical. However, it is not the symmetry of the
+objects in nature that I want to discuss here ; it is rather the
+symmetry of the physical laws themselves. It is easy to under­
+stand how an object can be symmetrical, but how can a
+physical law have a symmetry ? Of course it cannot, but
+physicists delight themselves by using ordinary words for
+something else. In this case they have a feeling about the
+physical laws which is very close to the feeling of symmetry
+of objects, and they call it the symmetry of the laws. That
+is what I am going to discuss.
+   What is symmetry ? If you look at me I am symmetrical,
+right and left - apparently externally, at least. A vase can be
+symmetrical in the same way or in other ways. How can you
+define it ? The fact that I am left and right symmetric means
+that if you put everything that is_on one side on the other
+side, and vice versa - if you just exchange the two sides I -
+
+
+
+shall look exactly the same. A square has a symmetry of a
+special kind, because if I turn it around through 90 degrees
+it still looks exactly the same. Professor Weyl, * the mathe­
+matician, gave an excellent definition of symmetry, which
+is that a thing is symmetrical if there is something that you
+can do to it so that after you have finished doing it it looks
+the same as it did before. That is the sense in which we say
+that the laws of physics are symmetrical ; that there are
+
+*Hermann Weyl, 1 885-1955, German mathematician .
+
+
+                              84
+                  Symmetry in Physical Law
+things we can do to the physical laws, or to our way of rep­
+resenting the physical laws, which make no difference, and
+leave everything unchanged in its effects . It is this aspect of
+physical laws that is going tq concern us in this lecture.
+   The simplest example of this kind of symmetry - you will
+ see that it is not the same as you might have thought, left
+and right symmetric, or anything like that - is a symmetry
+ called translation in space. This has the following meaning :
+if you build any kind of apparatus, or do any kind of experi­
+ment with some things, and then go and build the same
+apparatus to do the same kind of experiment, with similar
+things but put them here instead of there, merely translated
+ from one place to another in space, then the same thing will
+happen in the translated experiment as would have happened
+in the original experiment. It is not true here actually. If I
+ actually built such an apparatus, and then displaced it 20
+feet to the left of where I am now it would get into the wall,
+ and there would be difficulties. It is necessary, in defining
+this idea, to take into account everything that might affect
+the situation, so that when you mQve the thing you move
+everything. For example, if the system involved a pendulum ,
+and I moved it 20,000 miles to the right, it would not work
+properly any more because the pendulum involves the attrac­
+tion of the earth. However, if I imagine that I move the
+earth as well as the equipment then it would behave in the
+same way. The problem in this situation is that you must
+translate everything which may have any influence on the
+situation. That sounds a little dopey, because it sounds as if
+you can just translate an experiment, and if it does not work
+you can just presume that you did not translate enough stuff
+- so you are bound to win. Actually this is not so, because it
+is not self-evident that you are bound to win. The remarkable
+thing about nature is that it is possible to translate enough
+stuff so that it does behave the same way. That is a positive
+statement.
+   I would like to illustrate that such a thing is true. Let us
+take as an example the law of gravitation, which says that
+the force between objects varies inversely as the square of
+
+                              85
+               The Character of Physical Law
+  the distance between them ; and I would remind you that a
+  thing responds to a force by changing its velocity, with time,
+  in the direction of the force. If I have a pair of objects, like
+  a planet going around a sun, and I move the whole pair
+  over, then the distance between the objects of course does
+  not change, and so the forces do not change. Further, when
+ they are in the moved-over situation they will go at the
+  same speed, and all the changes will remain in proportion
+ and everything go around in the two systems in exactly the
+ same way. The fact that the law says 'the distance between
+ two objects', rather than some absolute distance from the
+ central eye of the universe, means that the laws are trans­
+ latable in space.
+    That, then, is the first symmetry - translation in space.
+ The next one could be called translation in time, but, better,
+ let us say that delay in time makes no difference. We start a
+ planet going around the sun in a certain direction ; if we
+ could start it all over again, two hours later, or two years
+ later, with another beginning, but starting with the planet
+and the sun going in exactly the same way, then it would
+behave in exactly the same way, because again the law of
+gravitation talks about the velocity, and never about the
+absolute time when you were supposed to start measuring
+things. In this particular example, in, fact,- we are not really
+sure. When we discussed gravitation, we talked about the
+possibility that the force of gravity changed with time. This
+would mean that tra nslation in time is not a valid pr oposi­
+                       '
+tion, because if the constant of gravitation will be weaker a
+billion years hence than it is now, then it is not true that
+the motion would be exactly the same for our experimental
+sun and planet a billion years from now as it is now. As far
+as we know today (I have only discussed the laws as we
+know them today. - I only wish I could discuss the laws as we
+shall know them tomorrow !) as far as we know, a delay in
+time makes no difference.
+    We know that in one respect 'this is not really true. It is
+true for what we now call physical laws ; but one of the facts
+of the world (which may be very different ) is that it looks
+
+                               86
+                Symmetry in Physical La.w
+as if the universe had a definite time of beginning, and that
+everything is exploding apart. You might call that a con­
+dition of geography, analogous to the situation that when
+I translate in space I must translate everything. In the same
+sense you might say that the laws for time are the same and
+we must move the expansion of the universe with everything
+else. We could have made another analysis in which we star­
+ted the universe later ; but we do not start the universe, and
+we have no control over the situation and no way to define
+that idea experimentally. Therefore as far as science is con­
+cerned there really is no way to tell. The fact of the matter
+is that the conditions of the world appear to be changing in
+time, the galaxies separating from one another, so if you
+were to awake in some science-fiction story at an unknown
+time, by measuring the average distances to the galaxies
+you could tell when it was. That means that the world will
+not look the same if delayed in time.
+   Now it is conventional today to separate the physical
+laws, which tell how things will move if you start them in a
+given condition, from the statement of how the world actu­
+ally began, because we know so little about that. It is usually
+considered that astronomical history, or cosmological his­
+tory, is a little different from physical law. Yet if put to a
+test of how to define the difference I would be hard pressed.
+The best characteristic of physical law is its universality, and
+if anything is universal it is the expansion of all the nebulae.
+I have therefore no way of defining the difference. However,
+if I restrict myself to disregard the origin of the universe and
+take only the physical laws that are known, then a delay in
+time makes no difference.
+   Let us take some other examples of symmetry laws. One
+is a rotation in space, a fixed rotation. If I do some experi­
+ments with a piece of equipment built in one place, and then
+take another one (possibly translated so that it does not get
+in the way) exactly the same, but turned so that all the axes
+are in a different direction, it will work the same way. Again
+we have to turn everything that is relevant. If the thing is a
+grandfather clock, and you turn it horizontal, then the
+
+                              87
+              The Character of Physical Law
+ pendulum will just sit up against the wall of the cabinet
+ and not work. But if you turn the earth too (which is
+happening all the time) the clock still keeps working.
+    The mathematical description of this possibility of turning
+i s a rather interesting one. To describe what goes on in a
+ situation we use numbers to tell where something is. They
+ are called the co-ordinates of a point, and we sometimes use
+three numbers, to describe how high the point is above some
+plane, how far it is in front, say, or behind in negative
+ numbers, and how far to the left. In this case I am not going
+to worry about up and down because for rotations I just
+have to use two of these three co-ordinates. Let us call the
+distance in front of me x, and y can be the distance to the
+left. Then I can locate any body by telling how far it is in
+front and how far to the left. Those who come from New
+York City will know that the street numbers work that way
+very neatly - or they did until they began to change the
+name of Sixth Avenue ! The mathematical idea about the
+turning is this : if I locate a point as I have described, by
+giving its x and y co-ordinates and someone else, facing a
+different way, locates the same point in the same way, but
+calculating the x' and y' in relation to his own position, then
+you can see that my x co-ordinate is a mixture of the two
+co-ordinates calculated by the other man. The connexion of
+the transformation is that x gets mixed into x' and y' and y
+into y' and x'. The laws of nature should so be written that if
+you make such a mixtu;:-e, and resubstitute in the equations,
+then the equations will not change their form. That is the
+way in which the symmetry appears in mathematical form.
+You write the equations with certain letters, then there is a
+way of changing the letters from x and y to a different x, x',
+and a different y, y', which is a formula in terms of the old x
+and y, and the equations look the same, only they have
+primes all over them. This just means that the other man will
+see the thing behaving in his apparatus the same way as I see
+it in mine, which is turned the other way.
+    I will give another, very interesting, example of a sym­
+metry law. It is a question of uniform velocity in a straight
+
+                              88
+                                   Symmetry in Physical Law
+
+     P.
+
+                                                                      1
+          • . .. . . . . . . . . .. . . .   . .. .   . . . . . . ..   -
+
+
+
+
+      l
+          4tE----·- - Y- --
+                                                                               Relation of point P to
+                                                                               me is described by two
+                                                                               numbers x, y ; x is how
+                                                                               far P is in front of me
+                                                                               and y is how far to the
+                                                                               left.
+
+
+
+
+                                                                               The same point P is des­
+                                                                               cribed by two new num­
+                                                                                         '
+                                                                               bers x', y if I am in the
+                                                                               same place but simply
+                                                                               turned.
+                                                                  Figure 23
+
+
+
+
+line. It is believed that the laws of physics are unchanged
+under a uniform velocity in a straight line. This is called the
+principle of relativity. If we have a space ship, and we have
+a bit of equipment in it that is doing something, and we
+have another similar equipment down here on the ground,
+then, if the space ship is going along at a uniform speed,
+somebody inside, watching what is going on on his appara­
+tus, can see nothing different from the effects I, who am
+standing still, can see on my apparatus. Of course if he
+looks outside, or if he bumps into an outside wall, or some­
+thing like that, that is another matter ; but in so far as he
+
+                                                                          89
+              The Character of Physical Law
+is moving at a uniform velocity in a straight line, the laws of
+physics look the same to him as they do to me. Since that
+is the case, I cannot say who is moving.
+   I must emphasize here, before we go any further, that in
+all of these transformations, and all of these symmetries,
+we are not talking about moving a whole universe. In the
+case of time I am saying nothing if I imagine that I move all
+the times in the whole universe. So also there would be no
+content in the statement that if I took everything in the
+whole universe, and moved it over in space, it would be­
+have the same way. The remarkable thing is that if I take
+a piece of apparatus and move it over, then if I make
+sure about a lot of conditions, and include enough appara­
+tus, I can get a piece of the world and move it relative
+to the average of all the rest of the stars, and this still
+does not make any difference. In the relativity case it means
+that someone coasting at a uniform velocity in a straight
+line, relative to the average of the rest of the nebulae, sees
+no effect. Put another way, it is impossible to determine
+by any effects from the experiments inside a car, without
+looking out, whether you are moving relative to all the
+stars.
+   This proposition was first stated by Newton. Let us take
+his law of gravitation. It says that the forces are inversely
+as the squares of the distances, and that a force produces a
+change in velocity. Now suppose I have worked out what
+happens when a planet goes around a fixed sun, and now I
+want to work out what happens when a planet is going
+around a drifting sun. Then all of the velocities that I had
+in the first case are different in the second case ; I have to
+add on a constant velocity. But the law is stated in terms of
+changes in velocity, so that what happens is that the force on
+the planet with the fixed sun is the same as the force on the
+planet with the drifting sun, and therefore the changes in
+velocity of the two planets will also be identical. So any
+extra velocity I started with on the second planet just keeps
+ on going, and all the changes are accumulated on top of that.
+ The net result of the mathematics is that if yo u add a consta r.t
+
+                                90
+                  Symmetry in Physical Law
+ speed the laws will be exactly the same, so that we cannot,
+ by studying the solar system and the way the planets go
+ around the sun, figure out whether the sun is itself drifting
+ through space. According to Newton's law there is no effect
+ of such a drift through space on the motions of the planets
+ around the sun ; so Newton added that 'The motion of
+ bodies among themselves is the same in a space, whether
+ that space is itself at rest relative to the fixed stars, or moving
+ at a uniform velocity in a straight line'.
+   As time went on, new laws were discovered after Newton,
+ among them the laws of electricity discovered by Maxwell. *
+ One of the consequences of the laws of electricity was that
+ there should be waves, electromagnetic waves - light is an
+ example - which should go at 1 86,000 miles a second, flat.
+ I mean by that 1 86,000 miles a second, come what may. So
+then it was easy to tell where rest was, because the law that
+light goes at 1 86,000 miles a second is certainly not (at first
+sight) one which will permit one to move without some
+effect. It is evident, is it not, that �f you are in a space ship
+going at 100,000 miles a second in some direction, while I
+am standing still, and I shoot a light beam at 1 86,000 miles
+a second through a little hole in your ship, then, as it goes
+through your ship, since you are going at 100,000 miles per
+second and the light is going at 1 86,000, the light is only
+going to look to you as if it is passing at 86,000 miles a
+second. But it turns out that if you do this experiment it
+looks to you as if it is going at 1 86,000 miles a second past
+you, and to me as if it is going 1 86,000 miles a second past
+me !
+   The facts of nature are not so easy to understand, and the
+fact of the experiment was so obviously counter to common­
+sense, that there are some people who still do not believe the
+result ! But time after time experiments indicated that the
+speed is 1 86,000 miles a second no matter how fast you are
+moving. The question now is how that could be. Einstein
+
+*James Clerk Maxwell, 183 1-79.      First   teacher   of   experimental
+physics at Cambridge.
+
+
+                                91
+                The Character of Physical Law
+realized, and Poincare* too, that the only possible way in
+which a person moving and a person standing still could
+measure the speed to be the same was that their sense of
+time and their sense of space are not the same, that the
+clocks inside the space ship are ticking at a different speed
+from those on the ground, and so forth. You might say, 'Ah,
+but if the clock is ticking and I look at the clock in the space
+ship, then I can see that it is going slow'. No, your brain is
+going slow too ! So by making sure that everything went
+just so inside the space ship, it was possible to cook up a
+system by which in the space ship it would look like 1 86,000
+space-ship miles per space-ship second, whereas here it
+would look like 1 86,000 my miles per my second. That is a
+very ingenious thing to be able to do, and it turns out, re­
+markably enough, to be possible.
+   I have mentioned already one of the consequences of this
+principle of relativity, that you cannot tell how fast you are
+moving in a straight line ; you remember in the last lecture
+the case in which we had two cars, A and B (fig. 24). There
+was an event, which happened at each end of car B. A man
+
+
+
+
+   Posibonr. at ti tvi e                Positi o�s at tiMt.
+   of evewits                           whe.� B sees evb1ts .
+
+
+                               Figure 24
+
+
+*Jules Henri Poincare, 1854-1 9 1 2. French scientist.
+
+
+                                   92
+                Symmetry in Physical Law
+was standing in the middle of the car, and the events (x and
+y) happened at each end of his car at a certain instant, which
+he claimed was the same time for each event, because,
+standing in the middle of the car, he saw the light from both
+of these things at the same time. But the man in car A, who
+happened to be moving with a constant velocity relative to
+B, saw the same two events, not at the same time, but in
+fact he saw x first, because the light reached him before the
+light from y, because he was moving forward. You see that
+one of the consequences of the principle of symmetry for
+uniform velocity in a straight line - that word symmetry
+means that you cannot tell who's view is correct - is that
+when I talk about everything that is happening in the world
+' now ', that does not mean anything. If you are moving
+along at a uniform velocity in a straight line, then the things
+that happen that appear to you as simultaneous are not the
+same events as appear simultaneous to me, even though we
+are passing each other on the instant when I consider the
+simultaneous event to have happened. We cannot agree
+what ' now' means at a distance. This means a profound
+transformation of our ideas of space and time, in order to
+maintain this principle that uniform velocity in a straight
+line cannot be detected. Actually what is happening here is
+that two things which appear from one point of view to be
+simultaneous, seem from another point of view to be not
+at the same time, provided they are not at the same place,
+but are far apart in distance.
+   You can see that this is very much like the x and y business
+in space. If I stand facing an audience, then the two sides of
+the stage on which I stand are on a level with me. They have
+the same x, but different y. But if I turn round through 90°,
+and look at the same pair of walls, but from a different point
+of view, then one is in front of me and one is behind, they
+have different x'. So it is that the two events which from one
+point of view seem to be at the same time (same t), from
+another point of view can seem to be at different times
+(different t'). A generalization of the two-dimensional rota­
+tion that I spoke about was therefore made into space and
+
+                              93
+              The Character of Physical Law
+time, so that time was added to space to make a four­
+dimensional world. It is not merely an artificial addition,
+like the explanation given in most of the popular books,
+which say 'We add time to space, because you cannot only
+locate a point, you also have to say when'. That is true, but
+that would not make it real four-dimensional space-time ;
+that just puts the two things together. Real space has, in a
+sense, the characteristic that its existence is independent of
+the particular point of view, and that looked at from dif­
+ferent points of view a certain amount of 'forward-backward'
+can get mixed up with 'left-right'. In an analogous way a
+certain amount of time 'future-past' can get mixed up with
+a certain amount of space. Space and time must be com­
+pletely interlocked ; after this discovery Minkowski said
+that 'Space of itself and time of itself shall sink into mere
+shadows, and only a kind of union between them shall
+survive'.
+   I bring this particular example up in such detail because
+it is really the beginning of the study of symmetries in phy­
+sical laws. It was Poincar6's suggestion to make this analysis
+of what you can do to the equations and leave them alone.
+It was Poincar6's attitude to pay attention to the symmetries
+of physical laws. The symmetries of translation in space,
+delay in time, and so on, were not very deep ; but the sym­
+metry of uniform velocity in a straight line is very interesting,
+and has all kinds of consequences. Furthermore, these con­
+sequences are extendable into laws that we do not know. For
+example, by guessing that this principle is true for the dis­
+integration of a mu meson, we can state that we cannot use
+mu mesons to tell how fast we are going in a space ship
+either ; and thus we know something at least about mu
+meson disintegration, even though we do not know why the
+mu meson disintegrates in the first place.
+   There are many other symmetries, some of them of a very
+different kind. I will just mention a few. One is that you can
+replace one atom by another of the same kind and it makes
+no difference to any phenomenon. Now you may ask 'What
+do you mean by the same kind ?' I can only answer that I
+
+                               94
+                  Symmetry in Physical Law
+mean one which, when replaced by the other one, does not
+make any difference ! It looks as if physicists are always
+talking nonsense in a way, doesn't it ? There are many dif­
+ferent kinds of atoms, and if you replace one by one of a
+different kind it makes a difference, but if you replace one
+by the same kind it makes no difference, which looks like a
+circular definition. But the real meaning of the thing is that
+there are atoms of the same kind ; that it is possible to find
+groups, classes of atoms, so that you can replace one by
+another of the same kind and it makes no difference. Since
+the number of atoms in any tiny little piece of material is
+I followed by 23 noughts or so, it is very important that they
+are the same, that they are not all different. It is really very
+interesting that we can classify them into a limited number
+of a few hundred different types of atom, so the state­
+ment that we can replace one atom by another of the
+same kind has a great amount of content. It has the
+greatest amount of content in quantum mechanics, but
+it is impossible for me to explain this here, partly,
+but only partly, because this lecture is addressed to
+an audience that is mathematically untrained ; it is quite
+subtle anyway. In quantum mechanics the proposition that
+you can replace one atom by another of the same kind has
+marvellous consequences. It produces peculiar phenomena
+in liquid helium, the liquid that flows through pipes without
+any resistance, just coasts on for ever. In fact it is the origin
+of the whole periodic table of the elements, and of the force
+that keeps me from going through the floor. I cannot go
+into all this in detail, but I want to emphasize the importance
+of looking at these principles.
+   By this time you are probably convinced that all the laws
+of physics are symmetrical under any kind of change what­
+soever, so now I will give a few that do not work. The first
+one is change of scale. It is not true that if you build an
+apparatus, and then build another one, with every part made
+exactly the same, of the same kind of stuff, but twice as big,
+that it will work in exactly the same way. You who are
+familiar with atoms are aware of this fact, because if I made
+
+                               95
+              The Character of Physical Law
+the apparatus ten billion times smaller I would only have
+five atoms in it, and I cannot make, for instance, a machine
+tool out of only five atoms. It is perfectly obvious if we go
+that far that we cannot change the scale, but even before the
+complete awareness of the atomic picture was developed
+it became apparent that this law is not right. You have
+probably seen in the newspapers from time to time that
+somebody has made a cathedral with matchsticks - several
+floors, and everything more Gothic than any Gothic cathe­
+dral has ever been, and more delicate. Why do we never
+build big cathedrals like that, with great logs, with the same
+degree of 'ginger cake', the same enormous degree of detail ?
+The answer is that if we did build one it would be so high
+and so heavy that it would collapse. Ah ! But you forgot that
+when you are comparing two things you must change every­
+thing that is in the system. The little cathedral made with
+matchsticks is attracted to the earth, so to make a compari­
+son the big cathedral should be attracted to an even bigger
+earth. Too bad. A bigger earth would attract it even more,
+and the sticks would break even more surely !
+   This fact that the laws of physics were not unchanged
+under change of scale was first discovered by Galileo. In
+discussing the strength of rods and bones, he argued that if
+you need a bone for a bigger animal - say an animal twice
+as high, wide, and thick - you will have eight times the
+weight, so you need a bone that can hold the strength
+eight times. But what a bone can hold depends on its cross­
+section, and if you made the bone twice as big it would only
+have four times the cross-section and would only be able to
+support four times the weight. In his book Dialogue on Two
+New Sciences, you will see pictures of imaginary bones of
+enormous dogs, way out of proportion. I suppose Galileo
+felt that the discovery of the fact that the laws of nature are
+not unchanged under change of scale was as important as
+his laws of motion, because they are both put together in
+the tome on Two New Sciences.
+   Another example of something that is not a symmetry law
+is the fact that if you are spinning at a uniform angular
+
+                              96
+                 Symmetry in Physical Law
+speed in a space ship, it is not true to say that you cannot
+tell if you are going around. You can. I might say that you
+would get dizzy. There are other effects ; things get thrown
+to the walls from the centrifugal force (or however you wish
+to describe it - I hope there are no teachers of freshman
+physics in the audience to correct me !). It is possible to tell
+that the earth is rotating by a pendulum or by a gyroscope,
+and you are probably aware that various observatories and
+museums have so-called Foucault* pendulums that prove
+that the earth is rotating, without looking at the stars. It
+is possible to tell that we are going around at a uniform
+angular velocity on the earth without looking outside, be­
+cause the laws of physics are not unchanged by such a
+motion.
+   Many people have proposed that really the earth is rota­
+ting relative to the galaxies, and that if we were to turn the
+galaxies too it would not make any difference. Well, I do
+not know what would happen if you were to turn the whole
+universe, and we have at the moment no way to tell. Nor, at
+the moment, do we have any theory which describes the
+influence of a galaxy on things here so that it comes out of
+this theory - in a straightforward way, and not by cheating
+or forcing - that the inertia for rotation, the effect of rota­
+tion, the fact that a spinning bucket of water has a concave
+surface, is the result of a force from the objects around. It is
+not known whether this is true. That it should be the case is
+known as Mach's principle, but that it is the case has not
+yet been demonstrated. The more direct experimental ques­
+tion is whether, if we are rotating at a uniform velocity
+relative to the nebulae, we see any effect. The answer is yes.
+If we are moving in a space ship at a uniform velocity in a
+straight line relative to the nebulae, do we see any effect ?
+The answer is no. Two different things. We cannot say that
+all motion is relative. That is not the content of relativity.
+Relativity says that uniform velocity in a straight line rela­
+tive to the nebulae is undetectable.
+
+*Jean Bernard Leon Foucault, 1 819-68. French physicist.
+
+
+                                97
+              The Character of Physical Law
+    The next symmetry law that I would like to discuss is an
+interesting one and has an interesting history. That is the
+question of reflection in space. I build a piece of apparatus,
+let us say a clock, and then a short distance away I build
+another clock, a mirror image of the first. They match each
+other like two gloves, right and left ; each spring which is
+wound one way in one clock is wound in the opposite way
+in the other, and so on. I wind up the two clocks, set them
+in corresponding positions, and then let them tick. The
+question is, will they always agree with each other ? Will
+all the machinery of one clock go in the mirror image of the
+other ? I do not know what you would guess about that.
+You would probably guess it is true ; most people did. Of
+course we are not talking about geography. We can dis­
+tinguish right and left by geography. We can say that if we
+stand in Florida and look at New York the ocean is on the
+right. That distinguishes right and left, and if the clock in­
+volved the water of the sea then it would not work if we
+built it the other way because its ticker would not get in the
+water. In that case what we would have to imagine is that
+the geography of the earth was turned round too on the
+other clock ; anything that is involved must be turned round.
+Nor are we interested in history. If you pick up a screw in a
+machine shop, the chances are it has a right-hand thread ;
+you might argue that the other clock would not be the same
+because it would be harder to get the screws. But that is just
+a question of what kind of things we make. Altogether the
+first guess is likely to be that nothing makes any difference.
+It turns out that the laws of gravitation are such that it
+ would not make any difference if the clock worked by
+ gravity. The laws of electricity and magnetism are such that
+ if in addition it had electric and magnetic guts, currents and
+ wires and what-not, the corresponding clock would still
+ work. If the clock involved ordinary nuclear reactions to
+ make it run, it would not make any difference either. But
+there is something that can make a difference, and I will
+ come to it in a moment.
+    You may know that it is possible to measure the con-
+
+                              98
+                   Symmetry in Physical Law
+centration of sugar in water by putting polarized light
+through the water. If you put a piece of polaroid that lets
+light through at a certain axis in the water, you find that
+when you watch the light as it goes through deeper and
+deeper sugar water you have to tum another piece of
+polaroid at the other end of the water more and more to the
+right to let the light through. If you put the light through the
+solution in the other direction it is still to the right. Here,
+then, is a difference between right and left. We could use
+sugar-water and light in the clocks. Suppose we have a tank
+of water and make light go through and tum our second
+piece of polaroid so that the light just gets through ; then
+suppose we make the corresponding arrangement in our
+second clock, hoping the light will tum to the left. It will
+not ; it will still tum to the right and will not get through.
+By using sugar water our two clocks can be made different !
+   This is a most remarkable fact, and it seems at first sight
+to prove that the physical laws are not symmetric for reflec­
+tion. However, the sugar that we used that time may have
+been from sugar beet ; but sugar is a fairly simple mole­
+cule, and it is possible to make it in the laboratory out of
+carbon dioxide and water, going through lots of stages in
+between. If you try artificial sugar, which chemically seems
+to be the same in every way, it does not tum the light.
+Bacteria eat sugar ; if you put bacteria in the artificial sugar
+water it turns out that they only eat half the sugar, and when
+the bacteria are finished and you pass polarized light through
+the remaining sugar water you find it turns to the left. The
+explanation of this is as follows . Sugar is a complicated
+molecule, a set of atoms in a complicated arrangement. If
+you make exactly the same arrangement, but with left as
+right, then every distance between every pair of atoms is the
+same in one as in the other, the energy of the molecules is
+exactly the same, and for all chemical phenomena not in­
+volving life they are the same. But living creatures find a
+difference. Bacteria eat one kind and not the other. The
+ sugar that comes from sugar beet is all one kind, all right­
+hand molecules, and so it turns the light one way. The
+
+                              99
+                The Character of Physical Law
+ bacteria can only eat that kind of molecule. When we manu­
+facture the sugar from substances which are not themselves
+ asymmetrical, simple gases, we make both kinds in equal
+numbers. Then if we introduce the bacteria, they will re­
+move the kind they can eat and the other is left. That is why
+the light goes through the other way. It is possible to separate
+the two types by looking through magnifying glasses at the
+crystals, as Pasteur* discovered. We can definitely show that
+all this makes sense, and we can separate the sugar our­
+ selves without waiting for the bacteria if we wish to. But the
+interesting thing is that the bacteria can do this. Does this
+ mean that the living processes do not obey the same laws ?
+Apparently not. It seems that in the living creatures there
+are many, many complicated molecules, and they all have a
+kind of thread to them. Some of the most characteristic
+molecules in living creatures are proteins. They have a cork­
+screw property, and they go to the right. As far as we can
+tell, if we could make the same things chemically, but to the
+left rather than to the right, they would not function bio­
+logically because when they met the other proteins they
+would not fit in the same way. A left-hand thread will fit a
+left-hand thread, but left and right do not fit. The bacteria
+having a right-hand thread in their chemical insides can
+distinguish the right and left sugar.
+   How did they get that way ? Physics and chemistry cannot
+distinguish the molecules, and can only make both kinds.
+But biology can. It is easy to believe that the explanation is
+that long ago, when the life processes first began, some
+accidental molecule got started and propagated itself by re­
+producing itself, and so on, until after many many years
+these funny looking blobs, with knobs sticking out with
+prongs on, stand and yak at each other . . . But we are
+nothing but the offspring of the first few molecules, and it
+was an accident of the first few molecules that they happened
+to form one way instead of the other. It had to be either one
+or the other, either left or right, and then it reproduced itself,
+
+*Louis Pasteur, 1 822-95. French bacteriologist.
+
+
+                                 1 00
+                  Symmetry in Physical Law
+and still propagates on and on. It is much like the screws in
+the machine shop. You use right-hand thread screws to make
+new right-hand thread screws, and so on. This fact, that all
+the molecules in living things have exactly the same kind
+of thread, is probably one of the deepest demonstrations of
+the uniformity of the ancestry of life, right back to the
+completely molecular level.
+   In order to test better thi s question about whether the
+laws of physics are the same, right and left, we can put the
+problem to ourselves this way. Suppose that we were in
+telephone conversation with a Martian, or an Arcturian ,
+ and we wished to describe things on earth to him. First of
+all, how is he going to understand our words ? That question
+ has been studied intensively by Professor Morrison * at
+ Cornell, and he has pointed out that one way would be to
+ start by saying 'tick, one : tick, tick, two : tick, tick, tick,
+ three : ' and so on. Pretty soon the guy would catch on to the
+ numbers. Once he understood your number system, you
+ could write a whole sequence of numbers that represent the
+ weights, the proportional weights, of the different atoms in
+ succession, and then say 'hydrogen, t · 008', then deuterium ,
+ helium, and so on. After he had sat down with these num­
+ bers for a while he would discover that the mathematical
+ ratios were the same as the ratios for the weights of the
+ elements, and that therefore those names m ust be the names
+ of the elements. Gradually in this way you could build u p
+ a common language. Now comes the problem. Suppose,
+ after you get familiar with him, he says, 'You fellows, you're
+ very nice. I'd like to know what you look like'. You start,
+ 'We're about six feet tall', and he says, 'Six feet - how big is
+ a foot ?' That is very easy : 'Six feet tall is seventeen thousand
+ million hydrogen atoms high' . That is not a j oke - it is a
+ possible way of describing six feet to someone who has no
+ measure - assuming that we cannot send him any samples,
+  nor can we both look at the same objects. If we wish to tell
+
+ *Philip Morrison, American professor of physics ,    1 964, BBC-1 ,
+ television series 'The Fabric of the Atom'.
+
+                                101
+               The Character of Physical La.w
+ him how big we are we can do it. That is because the laws of
+ physics are not unchanged under a scale change, so we can
+ use that fact to determine the scale. We can go on describing
+ ourselves - we are six feet tall, and we are so-and-so bi­
+lateral on the outside, and we look like this, and there are
+these prongs sticking out, etc. Then he says, 'That's very
+interesting, but what do you look like on the inside ?' So we
+describe the heart and so on, and we say, 'Now put the
+heart in on the left side'. The question is, how can we tell
+him which side is the left side ? 'Oh', you say, 'We take beet
+sugar, and put it in water, and it turns . . . ' only the trouble
+is that he has no beets up there. Also we have no way of
+knowing whether the accidents of evolution on Mars, even
+if they had produced corresponding proteins to those here,
+would have started with the oppositely-handed threads.
+There is no way to tell. After much thought you see that
+you cannot do it, and so you conclude it is impossible.
+   About five years ago, however, certain experiments pro­
+duced all kinds of puzzles. I will not go into detail, but we
+found ourselves in tighter and tighter difficulties, more and
+more paradoxical situations, until finally Lee and Yang*
+proposed that maybe the principle of right and left sym­
+metry - that nature is the same for right and left - is not
+correct, and that this would help to explain a number of
+mysteries. Lee and Yang proposed some more direct experi­
+ments to demonstrate this, and I will just mention the most
+direct of all the experiments done.
+   We take a radioactive disintegration in which, for in­
+stance, an electron and a neutrino are emitted - an example,
+which we have talked about before, is the disintegration of
+a neutron into a proton, an electron and an anti-neutrino,
+and there are many radioactivities in which the charge of
+the nucleus increases by one and an electron comes out.
+The thing that is interesting is that if you measure the spin
+- electrons are spinning as they come out - you find out that
+
+*Tsung-Dao Lee and Chen Ning Yang, Chinese physicists, joint
+Nobel Prize 1 957.
+
+
+                              1 02
+                 Symmetry in Physical Law
+they are spinning to the left (as seen from behind - i.e. if
+they are going south, they turn in the same direction as
+does the earth). It has a definite significance, that the electron
+when it comes out of the disintegration is always turning
+one way, it has a left-hand thread. It is as though in the
+beta-decay the gun that was shooting out the electron were
+a rifled gun. There are two ways to rifle a gun ; there is the
+direction 'out', and you have the choice whether you turn
+it left or right as you go out. The experiment shows that the
+electron comes from a rifled gun, rifled to the left. Using
+this fact, therefore, we could ring up our Martian and say,
+'Listen, take a radioactive stuff, a neutron, and look at the
+electron which comes from such a beta-decay. If the elec­
+tron is going up as it comes out, the direction of its spin is
+into the body from the back on the left side. That defines
+left. That is where the heart goes' . Therefore it is possible
+to tell right from left, and thus the law that the world is
+ symmetrical for left and right has collapsed.
+    The next thing I would like to talk about is the relation­
+ ship of conservation laws to symmetry laws. In the last
+lecture we talked about conservation principles, conserva­
+ tion of energy, momentum, angular momentum, and so on.
+ It is extremely interesting that there seems to be a deep con­
+ nection between the conservation laws and the symmetry
+ laws. This connection has its proper interpretation, at least
+ as we understand it today, only in the knowledge of quan­
+ tum mechanics. Nevertheless I will show you one demon­
+ stration of this.
+    If we assume that the laws of physics are describable by
+ a minimum principle, then we can show that if a law is
+ such that you can move all the equipment to one side, in
+ other words if it is translatable in space, then there must be
+ conservation of momentum. There is a deep connection
+ between the symmetry principles and the conservation laws,
+ but that connection requires that the minimum principle be
+ assumed. In the second lecture we discussed one way of
+ describing physical laws by saying that a particle goes from
+ one place to another in a given length of time by trying
+
+                               1 03
+               The Character of Physical Law
+different paths. There is a certain quantity which, perhaps
+misleadingly, happens to be called the action. When you
+calculate the action on the various paths you will find that
+for the actual path taken this quantity is always smaller
+than for any other. That way of describing the laws of nature
+is to say that the action of certain mathematical formulae
+is least for the actual path of all the possible paths. Another
+way of saying a thing is least is to say that if you move the
+path a little bit at first it does not make any difference.
+Suppose you were walking around on hills - but smooth
+hills, since the mathematical things involved correspond to
+smooth things - and you come to a place where you are
+lowest, then I say that if you take a small step forward you
+will not change your height. When you are at the lowest or
+at the highest point, a step does not make any difference in
+the altitude in first approximation, whereas if you are on a
+slope you can walk down the slope with a step and then if
+you take the step in the opposite direction you walk up.
+That is the key to the reason why, when you are at the lowest
+place, taking a step does not make much difference, be­
+cause if it did make any difference then if you took a step
+in the opposite direction you would go down. Since this is
+the lowest point and you cannot go down, your first approxi­
+mation is that the step does not make any difference. We
+therefore know that if we move a path a little bit it does not
+make any difference to the action on a first approximation.
+We draw a path, A to B (fig. 25), and now I want you to
+consider the following possible other path. First we jump
+immediately over to another place near by, C, then we move
+on exactly the corresponding path to another point, which
+we will call D, which is displaced the same amount, of
+course, because it is the corresponding path. Now we have
+just discovered that the laws of nature are such that the
+total amount of action going on the ACDB path is the same
+in the first approximation to that original path AB - that is
+from the minimum principle, when it is the real motion. I
+will tell you something else. The action on the original
+path , A to B, is the same as the action from C to D if the
+
+                             1 04
+                 Symmetry in Physical Law
+         .B  0              world is the same when you move
+          ---,              everything over, because the differ­
+              \             ence of these two is only that you
+               \            have  moved everything over. So if
+                      I
+                      f     the symmetry   principle of transla­
+                     I      tion in space is right, then the
+                    I       action on the direct path between
+                  I
+                I
+                            A and B is the same as that on the
+                l           direct path between C and D .
+                 \.         However fo r the true motion the
+                  c
+           _ _
+
+
+
+                            total action on the indirect path
+          Figure 25         ACDB is very nearly the same as
+                            on the direct path AB, and there­
+fore the same as just the part C to D. This indirect action is
+the sum of three parts - the action going A to C, that
+of C to D, plus that from D to B. So, subtracting
+equals from equals, you can probably see that the
+contribution from A to C and that from D to B must add up
+to zero. But in the motion for one of these sections we are
+going one way, and for the other the opposite way. If we
+take the contribution of A to C, thinking of it as an effect of
+moving one way, and the contribution of D to B as B to D ,
+taking the opposite sign because it is the other way, we see
+that there is a quantity A to C which has to match the
+quantity B to D to cancel off. This is the effect on the action
+of a tiny step in the B to D direction. That quantity, the
+effect on the action of a small step to the right, is the same
+at the beginning (A to C) as at the end (B to D). There is a
+quantity, therefore, that does not change as time goes on,
+provided the minimum principle works, and the symmetry
+principle of displacement in space is right. This quantity
+which does not change (the effect on the action of a small
+step to one side) is in fact exactly the momentum that we
+discussed in the last lecture. This shows the relation of
+symmetry laws to conservation laws, assuming the laws
+obey a principle of least action. They satisfy a principle of
+least action, it turns out, because they come from quantum
+mechanics. That is why I said that in the last analysis the
+
+                              105
+              The Character of Physical La.w
+connection of symmetry laws to conservation laws comes
+from quantum mechanics.
+   The corresponding argument for delay in time comes out
+as the conservation of energy. The case that rotation in
+space does not make any difference comes out as the con­
+servation of angular momentum. That we can reflect with­
+out any change in effect does not come out to be anything
+simple in the classical sense. People have called it parity,
+and they have a conservation law called the conservation of
+parity, but these are just complicated words. I have to
+mention the conservation of parity, because you may have
+read in the papers that the law of the conservation of parity
+has been proved wrong. It would have been much easier to
+understand if what had been written was that the principle
+that you cannot distinguish right from left has been proved
+wrong.
+   Whilst I am talking about symmetries, one thing I would
+like to tell you is that there are a few new p roble ms . For in­
+ stance, for every particle there is an anti-particle : for an
+ electron this is a positron, for a proton an anti-proton. We
+ can in principle make what we call anti-matter, in which
+ every atom has its corresponding anti-pieces put together.
+ The hydrogen atom is a proton and an electron ; if we take
+ an anti-proton, which is electrically negative, and a positron,
+ and put them together, they also will make a kind of hydro­
+ gen atom, an anti-hydrogen atom. Anti-hydrogen atoms
+ have never in fact been made, but it has been figured out
+ that in principle it would work, and that we could make all
+ kinds of anti-matter in the same manner. What we would
+ ask now is whether the anti-matter works in the same way
+ as matter, and as far as we know it does. One of the laws of
+ symmetry is that if we made stuff out of anti-matter it
+ would behave in the same way as if we made the corres­
+ ponding stuff out of matter. Of course if they came together
+ they would annihilate one another and there would be
+ sparks.
+    It always has been believed that matter and anti-matter
+ have the same laws. However, now we know· that the left
+
+                               1 06
+                  Symmetry in Physical La.w
+ and right symmetry appears wrong, an important question
+comes. If I look at the neutron disintegration, but with anti­
+matter - an anti-neutron goes into an anti-proton plus an
+anti-electron (also called a positron), plus a neutrino - the
+question is, does it behave in the same way, in the sense that
+the positron will come out with a left-hand thread, or does
+it behave the other way ? Until a few months ago we be­
+lieved that it behaves the opposite way, and that the anti­
+matter (positron) goes to the right where matter (electron)
+goes to the left. In that case we cannot really tell the Martian
+which is right and left, because if he happens to be made out
+of anti-matter, when he does his experiment his electrons
+will be positrons, and they will come up spinning the wrong
+way and he will put the heart on the wrong side. Suppose
+you telephone the Martian, and you explain how to make
+a man ; he makes one, and it works. Then you explain to
+him also all our social conventions. Finally, after he tells us
+how to build a sufficiently good space ship, you go to meet
+this man, and you walk up to him and put out your right
+hand to shake hands. If he puts out his right hand, O.K., but
+if he puts out his left hand watch out . . . the two of you will
+annihilate with each other !
+   I wish I could tell you about a few more symmetries, but
+they become more difficult to explain. There are also some
+very remarkable things, which are the near-symmetries. For
+instance, the remarkable feature of the fact that we can dis­
+tinguish right and left is that we can only do so with a very
+weak effect, with this beta-disintegration. What this means
+is that nature is 99 ·99 per cent indistinguishable right from
+left, but that there is just one little piece, one little charac­
+teristic phenomenon, which is completely different, in the
+sense that it is absolutely lop-sided. This is a mystery that
+no one has the slightest idea about yet.
+
+
+
+
+                              107
+                             5

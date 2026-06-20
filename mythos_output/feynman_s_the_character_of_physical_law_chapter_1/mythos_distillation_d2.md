@@ -1,0 +1,1 @@
+It looks like you sent an empty message. How can I help you today? I'm ready to assist with coding tasks, code review, debugging, or any other development work you have in mind.

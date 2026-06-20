@@ -1,0 +1,1023 @@
+                   Seeking New Laws
+
+What I want to talk about in this lecture is not, strictly
+speaking, the character of physical law. One might imagine
+at least that one is talking about nature when one is talking
+about the character of physical law ; but I do not want to
+talk about nature, but rather about how we stand relative to
+nature now. I want to tell you what we think we know, what
+there is to guess, and how one goes about guessing. Some­
+one suggested that it would be ideal if, as I went along, I
+would slowly explain how to guess a law, and then end by
+creating a new law for you. I do not know whether I shall
+be able to do that.
+   First I want to tell you what the present situation is, what
+it is that we know about physics. You may think that I have
+told you everything already, because in the lectures I have
+told you all the great principles that are known. But the
+principles must be principles about something ; the principle
+of the conservation of energy relates to the energy of some­
+thing, and the quantum mechanical laws are quantum
+mechanical laws about something - and all these principles
+added together still do not tell us what the content is of the
+nature that we are talking about. I will tell you a little, then,
+about the stuff on which all of these principles are supposed
+to have been working.
+   First of all there is matter - and, remarkably enough, all
+matter is the same. The matter of which the stars are made
+is known to be the same as the matter on the earth. The
+character of the light that is emitted by those stars gives a
+kind of fingerprint by which we can tell that there are the
+same kinds of atoms there as on the earth. The same kinds
+of atoms appear to be in living creatures as in non-living
+
+                              149
+               The Character of Physical Law
+creatures ; frogs are made of the same 'goup' as rocks, only
+in different arrangements. So that makes our problem sim­
+pler ; we have nothing but atoms, all the same, everywhere.
+  The atoms all seem to be made from the same general
+constitution. They have a nucleus, and around the nucleus
+there are electrons. We can make a list of the parts of the
+world that we think we know about (fig. 32).
+
+
+
+            e l e lt rotis
+            ph oto".s
+            9ra\li t atrs
+            YI eu l:: ri tt o s
+
+                          + an�i't9J7av-�i ! lts
+
+
+                                  Figure 3 2
+
+
+First there are the electrons, which are the particles on the
+outside of the atom. Then there are the nuclei ; but those
+are understood today as being themselves made up of two
+other things which are called neutrons and protons - two
+particles. We have to see the stars, and see the atoms, and
+they emit light, and the light itself is described by particles
+which are called photons. In the beginning we spoke about
+gravitation ; and if the quantum theory is right, then the
+gravitation should have some kind of waves which behave
+like particles too, and these are called gravitons. If you do
+not believe in that, just call it gravity. Finally, I did mention
+what is called beta-decay, in which a neutron can disinte­
+grate into a proton, an electron and a neutrino - or really an
+anti-neutrino ; there is another particle, a neutrino. In
+addition to all the particles I have listed there are of course
+all the anti-particles ; that is just a quick statement that
+takes care of doubling the number of particles, but there is
+no complication.
+
+                                     1 50
+                    Seeking New Laws
+  With these particles that I have listed, all of the low
+energy phenomena, in fact all ordinary phenomena that
+happen everywhere in the Universe, so far as we know, can
+be explained. There are exceptions, when here and there
+some very high energy particle does something, and in the
+laboratory we have been able to do some peculiar things.
+But if we leave out these special cases, all ordinary pheno­
+mena can be explained by the actions and the motions of
+particles. For example, life itself is supposedly understand­
+able in principle from the movements of atoms, and those
+atoms are made out of neutrons, protons and electrons. I
+must immediately say that when we state that we under­
+stand it in principle, we only mean that we think that, if we
+could figure everything out, we would find that there is
+nothing new in physics which needs to be discovered in
+order to understand the phenomena of life. Another in­
+stance, the fact that the stars emit energy, solar energy or
+stellar energy, is presumably also understood in terms of
+nuclear reactions among these particles. All kinds of details
+of the way atoms behave are accurately described with this
+kind of model, at least as far as we know at present. In fact,
+I can say that in the range of phenomena today, so far as I
+know there are no phenomena that we are sure cannot be
+explained this way, or even that there is deep mystery about.
+   This was not always possible. There is, for instance, a
+phenomenon called super-conductivity, which means that
+metals conduct electricity without resistance at low tem­
+peratures. It was not at first obvious that this was a con­
+sequence of the known laws. Now that it has been thought
+through carefully enough, it is seen in fact to be fully ex­
+plainable in terms of our present knowledge. There are other
+phenomena, such as extra-sensory perception, which can­
+not be explained by our knowledge of physics. However,
+that phenomenon has not been well established, and we
+cannot guarantee that it is there. If it could be demon­
+strated, of course, that would prove that physics is in­
+complete, and it is therefore extremely interesting to physi­
+cists whether it is right or wrong. Many experiments exist
+
+                             151
+              The Character of Physical Law
+which show that it does not work. The same goes for astro­
+logical influences. If it were true that the stars could affect
+the day that it was good to go to the dentist - in America
+we have that kind of astrology - then physics theory would
+be proved wrong, because there is no mechanism under­
+standable in principle from the behaviour of particles which
+would make this work. That is the reason that there is some
+scepticism among scientists with regard to those ideas.
+    On the other hand, in the case of hypnotism, at first it
+looked as though that also would be impossible, when it
+was described incompletely. Now that it is known better
+it is realized that it is not absolutely impossible that hypnosis
+could occur through normal physiological, though as yet
+unknown, processes ; it does not obviously require some
+special new kind of force.
+    Today, although our theory of what goes on outside the
+nucleus of the atom seems precise and complete enough, in
+the sense that given enough time we can calculate anything
+as accurately as it can be measured, it turns out that the
+forces between neutrons and protons, which constitute the
+nucleus, are not so completely known, and are not under­
+stood at all well. What I mean is that we do not today
+understand the forces between neutrons and protons to the
+extent that if you wanted me to, and gave me enough time
+and computers, I could calculate exactly the energy levels
+of carbons, or something like that. We do not know enough.
+Although we can do the corresponding thing for the energy
+levels of the outside electrons of the atom, we cannot for
+the nucleus, since the nuclear forces are still not understood
+very well.
+    In order to find out more about this, experimenters have
+gone on to study phenomena at very high energy. They hit
+neutrons and protons together at very high energy to pro­
+duce peculiar things, and by studying these peculiar things
+we hope to understand better the forces between neutrons
+and protons. Pandora's box has been opened by these ex­
+periments ! Although all we really wanted was to get a better
+idea of the forces between neutrons and protons, when we
+
+                               1 52
+                    Seeking New Laws
+hit these things together hard we discovered that there are
+more particles in the world. In fact more than four dozen
+other particles have been dredged up in an attempt to
+understand these forces ; we will put these four dozen others
+into the neutron/proton column (fig. 33), because they inter-
+
+
+
+        e-lec.,t roM5
+        p'1 otoK.s
+        qra.vit oMs
+        M t1ottri ttos
+        Mtw 1ttt �o11s   (mwotts)
+        tnw ttewtrittos
+                   +au atsti- partic les
+
+                             Figure 33
+
+act with neutrons and protons, and have something to do
+with the forces between them. In addition to that, while the
+dredge was digging up all this mud it picked up a couple of
+pieces that are irrelevant to the problem of nuclear forces.
+One of them is called a mu meson, or muon, and the other
+is a neutrino which goes with it. There are two kinds of
+neutrino, one which goes with the electron and one which
+goes with the mu meson. Incidentally, most amazingly, all
+the laws of the muon and its neutrino are now known, as
+far as we can tell experimentally, and the law is that they
+behave in precisely the same way _as the electron and its
+neutrino, except that the mass of the mu meson is 207 times
+heavier than the electron ; but that is the only difference
+known between those objects, which is rather curious.
+Four dozen other particles is a frightening array - plus the
+anti-particles. They have various names, mesons, pions,
+kaons, lambda, sigma . . . it does not make any difference . . .
+with four dozen particles there are going to be a lot of names !
+
+                                1 53
+              The Character of Physical Law
+But it turns out that these particles come in families, which
+helps us a little. Actually some of these so-called particles
+last such a short time that there are debates about whether
+it is in fact possible to define their very existence, but I will
+not enter into that debate.
+   In order to illustrate the family idea, I will take the cases
+of a neutron and a proton. The neutron and the proton have
+the same mass, within a tenth of a per cent or so. One is
+1 ,836, the other 1 ,839 times as heavy as an electron. More
+remarkable is the fact that for the nuclear forces, the strong
+forces inside the nucleus, the force between two protons is
+the same as between a proton and a neutron, and is the same
+again between a neutron and a neutron. In other words, from
+the strong nuclear forces you cannot tell a proton from a
+neutron. So it is a symmetry law ; neutrons may be sub­
+stituted for protons without changing anything - provided
+you are only talking about the strong forces. But if you
+change a neutron for a proton you have a terrific difference,
+because the proton carries an electrical charge and the
+neutron does not. By electrical measurement you can im­
+mediately see the difference between a proton and a neutron,
+so this symmetry, that you can replace one by the other, is
+what we call an approximate symmetry. It is right for the
+strong interactions of nuclear forces, but it is not right in
+any deep sense of nature, because it does not work for
+electricity. This is called a partial symmetry, and we have
+to struggle with these partial symmetries.
+   Now that the families have been extended, it turns out
+that substitutions of the type of neutron for proton can be
+extended over a wider range of particles. But the accuracy
+is still lower. The statement that neutrons can always be
+substituted for protons is only approximate - it is not true
+for electricity - but the wider substitutions which have been
+found possible give a still poorer symmetry. However, these
+partial symmetries have helped to gather the particles into
+families and thus to locate places where particles are missing
+and to help to discover new ones.
+   This kind of game, of roughly guessing at family relation-
+
+                              1 54
+                     Seeking New Laws
+ships and so on, is illustrative of the kind of preliminary
+sparring which one does with nature before really discover­
+ing some deep and fundamental law. Examples are very
+important in the previous history of science. For instance,
+Mendeleev's * discovery of the periodic table of the elements
+is analogous to this ga me. It is the first step ; but the com­
+plete description of the reason for the atomic table came
+much later, with atomic theory. In the same way, organiza­
+tion of the knowledge of nuclear levels was made by Maria
+Mayer and Jensen t in what they called the shell model of
+nuclei some years ago. Physics is in an analogous game, in
+which a reduction of the complexity is made by some ap­
+proximate guesses.
+   In addition to these particles we have all the principles
+that we were talking about before, the principles of sym­
+metry, cf relativity, and that things must behave quantum
+mechanically ; and, combining that with relativity, that all
+conservation laws must be local.
+   If we put all these principles together, we discover that
+there are too many. They are inconsistent with each other.
+It seems that if we take quantum mechanics, plus relativity,
+plus the proposition that everything has to be local, plus a
+number of tacit assumptions, we get inconsistency, because
+we get infinity for various things when we calculate them,
+and if we get infinity how can we ever say that this agrees
+with nature ? An example of these tacit assumptions which
+I mentioned, about which we are too prejudiced to under­
+stand the real significance, is such a proposition as the
+following. If you calculate the chance for every possibility -
+say it is 50 % probability this will happen, 25% that will
+happen, etc., it should add up to 1 . We think that if you
+
+
+*Dimitri Ivanovitch Mendeleev, 1 8 34-1 907, Russian chemist.
+
+
+t Maria Mayer, American physicist, Nobel Prize 1 963, Professor of
+Physics at University of California since 1 960. Hans Daniel Jensen,
+German physicist, Nobel Prize, 1 963. Director of Institute for Theore­
+tical Physics at Hddelberg since 1 949.
+
+
+                                 1 55
+              The Character of Physical La.w
+add all the alternatives you should get 100% probability.
+That seems reasonable, but reasonable things are where the
+trouble always is. Another such proposition is that the
+energy of something must always be positive - it cannot be
+negative. Another proposition which is probably added in
+before we get inconsistency is what is called causality, which
+is something like the idea that effects cannot precede their
+causes. Actually no one has made a model in which you
+disregard the proposition about the probability, or you dis­
+regard the causality, which is also consistent with quantum
+mechanics, relativity, locality and so on. So we really do not
+know exactly what it is that we are assuming that gives us
+the difficulty producing infinities. A nice problem ! However,
+it turns out that it is possible to sweep the infinities under
+the rug, by a certain crude skill, and temporarily we are
+able to keep on calculating.
+   O.K., that is the present situation. Now I am going to
+discuss how we would look for a new law.
+   In general we look for a new law by the following process.
+First we guess it. Then we compute the consequences of the
+guess to see what would be implied if this law that we guessed
+is right. Then we compare the result of the computation to
+nature, with experiment or experience, compare it directly
+with observation, to see if it works. If it disagrees with ex­
+periment it is wrong. In that simple statement is the key to
+science. It does not make any difference how beautiful your
+guess is. It does not make any difference how smart you are,
+who made the guess, or what his name is - if it disagrees
+with experiment it is wrong. That is all there is to it. It is
+true that one has to check a little to make sure that it is
+wrong, because whoever did the experiment may have re­
+ported incorrectly, or there may have been some feature in
+the experiment that was not noticed, some dirt or something ;
+or the man who computed the consequences, even though it
+may have been the one who made the guesses, could have
+made some mistake in the analysis. These are obvious re­
+marks, so when I say if it disagrees with experiment it is
+wrong, I mean after the experiment has been checked, the
+
+                             1 56
+                      Seeking New Laws
+calculations have been checked, and the thing has been
+rubbed back and forth a few times to make sure that the
+consequences are logical consequences from the guess, and
+that in fact it disagrees with a very carefully checked experi­
+ment.
+   This will give you a somewhat wrong impression of
+science. It suggests that we keep on guessing possibilities
+and comparing them with experiment, and this is to put
+experiment into a rather weak position. In fact experimen­
+ters have a certain individual character. They like to do
+experiments even if nobody has guessed yet, and they very
+often do their experiments in a region in which people know
+the theorist has not made any guesses. For instance, we may
+know a great many laws, but do not know whether they
+really work at high energy, because it is just a good guess that
+they work at high energy. Experimenters have tried experi­
+ments at higher energy, and in fact every once in a while
+experiment produces trouble ; that is, it produces a dis­
+covery that one of the things we thought right is wrong. In
+this way experiment can produce unexpected results, and
+that starts us guessing again. One instance of an unexpec­
+ted result is the mu meson and its neutrino, which was not
+guessed by anybody at all before it was discovered, and even
+today nobody yet has any method of guessing by which
+this would be a natural result.
+   You can see, of course, that with this method we can
+attempt to disprove any definite theory. If we have a definite
+theory, a real guess, from which we can conveniently com­
+pute consequences which can be compared with experiment,
+then in principle we can get rid of any theory. There is
+always the possibility of proving any definite theory wrong ;
+but notice that we can never prove it right. Suppose that
+you invent a good guess, calculate the consequences, and
+discover every time that the consequences you have calcula­
+ted agree with experiment. The theory is then right ? No, it
+is simply not proved wrong. In the future you could com­
+pute a wider range of consequences, there could be a wider
+range of experiments, and you might then discover that the
+
+                              1 57
+              The Character of Physical Law
+thing is wrong. That is why laws like Newton's laws for the
+motion of planets last such a long time. He guessed the law
+of gravitation, calculated all kinds of consequences for the
+system and so on, compared them with experiment - and it
+took several hundred years before the slight error of the
+motion of Mercury was observed. During all that time the
+theory had not been proved wrong, and could be taken
+temporarily to be right. But it could never be proved right,
+because tomorrow's experiment might succeed in proving
+wrong what you thought was right. We never are definitely
+right, we can only be sure we are wrong. However, it is
+rather remarkable how we can have some ideas which will
+last so long.
+   One of the ways of stopping science would be only to do
+experiments in the region where you know the law. But
+experimenters search most diligently, and with the greatest
+effort, in exactly those places where it seems most likely that
+we can prove our theories wrong. In other words we are
+trying to prove ourselves wrong as quickly as possible, be­
+cause only in that way can we find progress. For example,
+today among ordinary low energy phenomena we do not
+know where to look for trouble, we think everything is all
+right, and so there is no particular big programme looking
+for trouble in nuclear reactions, or in super-conductivity.
+In these lectures I am concentrating on discovering funda­
+mental laws. The whole range of physics, which is interest­
+ing, includes also an understanding at another level of these
+phenomena like super-conductivity and nuclear reactions, in
+terms of the fundamental laws. But I am talking now about
+discovering trouble, something wrong with the fundamental
+laws, and since among low energy phenomena nobody
+knows where to look, all the experiments today in this field
+of finding out a new law, are of high energy.
+   Another thing I must point out is that you cannot prove
+a vague theory wrong. If the guess that you make is poorly
+expressed and rather vague, and the method that you use
+for figuring out the consequences is a little vague - you are
+not sure, and you say, 'I think everything's right because it's
+
+                             1 58
+                     Seeking New Laws
+all due to so and so, and such and such do this and that more
+ or less, and I can sort of explain how this works . . . ', then
+you see that this theory is good, because it cannot be
+proved wrong ! Also if the process of computing the con­
+sequences is indefinite, then with a little skill any experi­
+mental results can be made to look like the expected
+consequences. You are probably familiar with that in other
+fields. 'A' hates his mother. The reason is, of course, because
+she did not caress him or love him enough when he was a
+child. But if you investigate you find out that as a matter of
+fact she did love him very much, and everything was all
+right. Well then, it was because she was over-indulgent when
+he was a child ! By having a vague theory it is possible to
+get either result. The cure for this one is the following. If it
+were possible to state exactly, ahead of time, how much love
+is not enough, and how much love is over-indulgent, then
+there would be a perfectly legitimate theory against which
+you could make tests. It is usually said when this is pointed
+out, 'When you are dealing with psychological matters
+things can't be defined so precisely'. Yes, but then you
+cannot claim to know anything about it.
+   You will be horrified to hear that we have examples in
+physics of exactly the same kind. We have these approximate
+symmetries, which work something like this. You have an
+approximate symmetry, so you calculate a set of conse­
+quences supposing it to be perfect. When compared with
+experiment, it does not agree. Of course - the symmetry
+you are supposed to expect is approximate, so if the agree­
+ment is pretty good you say, 'Nice !', while if the agreement
+is very poor you say, 'Well, this particular thing must be
+especially sensitive to the failure of the symmetry'. Now you
+may laugh, but we have to make progress in that way. When
+a subject is first new, and these particles are new to us, this
+jockeying around, this 'feeling' way of guessing at the
+results, is the beginning of any science. The same thing is
+true of the symmetry proposition in physics as is true of
+psychology, so do not laugh too hard. It is necessary in the
+beginning to be very careful. It is easy to fall into the deep
+
+                              1 59
+               The Character of Physical Law
+end by this kind of vague theory. It is hard to prove it
+wrong, and it takes a certain skill and experience not to walk
+off the plank in the game.
+   In this process of guessing, computing consequences, and
+comparing with experiment, we can get stuck at various
+stages. We may get stuck in the guessing stage, when we have
+no ideas. Or we may get stuck in the computing stage. For
+example, Yukawa * guessed an idea for the nuclear forces in
+1 934, but nobody could compute the consequences because
+the mathematics was too difficult, and so they could not
+compare his idea with experiment. The theories remained
+for a long time, until we discovered all these extra particles
+which were not contemplated by Yukawa, and therefore it
+is undoubtedly not as simple as the way Yukawa did it.
+Another place where you can get stuck is at the experimen­
+tal end. For example, the quantum theory of gravitation is
+going very slowly, if at all, because all the experiments that
+you can do never involve quantum mechanics and gravita­
+tion at the same time. The gravity force is too weak com­
+pared with the electrical force.
+   Because I am a theoretical physicist, and more delighted
+with this end of the problem, I want now to concentrate
+on how you make the guesses.
+   As I said before, it is not of any importance where the
+guess comes from ; it is only important that it should agree
+with experiment, and that it should be as definite as pos­
+sible. 'Then', you say, 'that is very simple. You set up a
+machine, a great computing machine, which has a random
+wheel in it that makes a succession of guesses, and each time
+it guesses a hypothesis about how nature should work it
+computes immediately the consequences, and makes a com­
+parison with a list of experimental results it has at the other
+end'. In other words, guessing is a dumb man's job. Actually
+it is quite the opposite, and I will try to explain why.
+   The first problem is how to start. You say, 'Well I'd
+start off with all the known principles'. But all the principles
+*Hideki Yukawa, Japanese physicist. Director of Research Institute for
+Fundamental Physics at Kyoto. Nobel Prize 1 949.
+
+
+                                 1 60
+                     Seeking New La.ws
+that are known are inconsistent with each other, so some­
+thing has to be removed. We get a lot of letters from people
+insisting that we ought to makes holes in our guesses. You
+see, you make a hole, to make room for a new guess. Some•
+body says, 'You know, you people always say that space is
+continuous. How do you know when you get to a small
+enough dimension that there really are enough points in
+between, that it isn't just a lot of dots separated by little
+distances ?' Or they say, 'You know those quantum mechani­
+cal amplitudes you told me about, they're so complicated
+and absurd, what makes you think those are right ? Maybe
+they aren't right' . Such remarks are obvious and are per­
+fectly clear to anybody who is working on this problem. It
+does not do any good to point this out. The problem is not
+only what might be wrong but what, precisely, might be sub­
+stituted in place of it. In the case of the continuous space,
+suppose the precise proposition is that space really consists
+of a series of dots, and that the space between them does not
+mean anything, and that the dots are in a cubic array. Then
+we can prove immediately that this is wrong. It does not
+work. The problem is not just to say something might be
+wrong, but to replace it by something - and that is not so
+easy. As soon as any really definite idea is substituted it
+becomes almost immediately apparent that it does not work.
+   The second difficulty is that there is an infinite number of
+possibilities of these simple types. It is something like this.
+You are sitting working very hard, you have worked for a
+long time trying to open a safe. Then some Joe comes along
+who knows nothing about what you are doing, except that
+you are trying to open the safe. He says 'Why don't you
+try the combination 1 0 :20 :30 ?' Because you are busy, you
+have tried a lot of things, maybe you have already tried
+10 :20 :30. Maybe you know already that the middle number
+is 32 not 20. Maybe you know as a matter of fact that it is
+a five digit combination . . . . So please do not send me any
+letters trying to tell me how the thing is going to work.
+I read them - I always read them to make sure that I have
+not already thought of what is suggested - but it takes too
+
+                             161
+                 The Character of Physical Law
+long to answer them, because they are usually in the class
+'try 1 0 :20 :30'. As usual, nature's imagination far surpasses
+our own, as we have seen from the other theories which are
+subtle and deep. To get such a subtle and deep guess is not
+so easy. One must be really clever to guess, and it is not
+possible to do it blindly by machine.
+   I want to discuss now the art of guessing nature's laws.
+It is an art. How is it done ? One way you might suggest is
+to look at history to see how the other guys did it. So we
+look at history.
+   We must start with Newton. He had a situation where he
+had incomplete knowledge, and he was able to guess the
+laws by putting together ideas which were all relatively close
+to experiment ; there was not a great distance between the
+observations and the tests. That was the first way, but today
+it does not work so well.
+   The next guy who did something great was Maxwell, who
+obtained the laws of electricity and magnetism. What he
+did was this. He put together all the laws of electricity, due
+to Faraday and other people who came before him, and he
+looked at them and realized that they were mathematically
+inconsistent. In order to straighten it out he had to add one
+term to an equation. He did this by inventing for himself a
+model of idler wheels and gears and so on in space. He found
+what the new law was - but nobody paid much attention
+because they did not believe in the idler wheels. We do not
+believe in the idler wheels today, but the equations that he
+obtained were correct. So the logic may be wrong but the
+answer right.
+   In the case of relativity the discovery was completely
+different. There was an accumulation of paradoxes ; the
+known laws gave inconsistent results. This was a new kind
+of thinking, a thinking in terms of discussing the possible
+symmetries of laws. It was especially difficult, because for
+the first time it was realized how long something like New­
+ton's laws could seem right, and still ultimately be wrong.
+Also it was difficult to accept that ordinary ideas of time
+and space, which seemed so instinctive, could be wrong.
+
+                             1 62
+                      Seeking New Laws
+   Quantum mechanics was discovered in two independent
+ways - which is a lesson. There again, and even more so, an
+enormous number of paradoxes were discovered experi­
+mentally, things that absolutely could not be explained in
+any way by what was known. It was not that the knowledge
+was incomplete, but that the knowledge was too complete.
+Your prediction was that this should happen - it did not.
+The two different routes were one by Schrodinger, * who
+guessed the equation, the other by Heisenberg, who argued
+that you must analyse what is measurable. These two dif­
+ferent philosophical methods led to the same discovery in
+the end.
+   More recently, the discovery of the laws of the weak
+decay I spoke of, when a neutron disintegrates into a proton,
+an electron and an anti-neutrino - which are still only partly
+known - add up to a somewhat different situation. This time
+it was a case of incomplete knowledge, and only the equation
+was guessed. The special difficulty this time was that the
+experiments were all wrong. How can you guess the right
+answer if, when you calculate the result, it disagrees with
+experiment ? You need courage to say the experiments must
+be wrong. I will explain where that courage comes from later.
+   Today we have no paradoxes - maybe. We have this in­
+finity that comes in when we put all the laws together, but
+the people sweeping the dirt under the rug are so clever that
+one sometimes thinks this is not a serious paradox. Again,
+the fact that we have found all these particles does not tell
+us anything except that our knowledge is incomplete. I am
+sure that history does not repeat itself in physics, as you can
+tell from looking at the examples I have given. The reason
+is this. Any schemes - such as 'think of symmetry laws', or
+'put the information in mathematical form', or 'guess
+equations' - are known to everybody now, and they are all
+tried all the time. When you are stuck, the answer cannot
+be one of these, because you will have tried these right away.
+
+*Erwin SchrOdinger, Austrian theoretical physicist. Won Nobel Prize
+for Physics 1 9 3 3 with Paul Dirac.
+
+
+                               1 63
+              The Character of Physical La.w
+ There must be another way next time. Each time we get into
+ this log-jam of too much trouble, too many problems, it is
+because the methods that we are using are just like the ones
+ we have used before. The next scheme, the new discovery,
+ is going to be made in a completely different way. So his­
+tory does not help us much.
+    I should like to say a little about Heisenberg's idea that
+you should not talk about what you cannot measure, be­
+cause many people talk about this idea without really under­
+standing it. You can interpret this in the sense that the
+constructs or inventions that you make must be of such a
+kind that the consequences that you compute are comparable
+with experiment - that is, that you do not compute a con­
+sequence like 'a moo must be three goos', when nobody
+knows what a moo or a goo is. Obviously that is no good.
+ But if the consequences can be compared to experiment,
+then that is all that is necessary. It does not matter that moos
+and goos cannot appear in the guess. You can have as much
+junk in the guess as you like, provided that the consequences
+can be compared with experiment. This is not always fully
+appreciated. People often complain of the unwarranted ex­
+tension of the ideas of particles and paths, etc., into the
+atomic realm. Not so at all ; there is nothing unwarranted
+about the extension. We must, and we should, and we always
+do, extend as far as we can beyond what we already know,
+beyond those ideas that we have already obtained. Dan­
+gerous ? Yes. Uncertain ? Yes. But it is the only way to make
+progress. Although it is uncertain, it is necessary to make
+science useful. Science is only useful if it tells you about
+some experiment that has not been done ; it is no good if it
+only tells you what just went on. It is necessary to extend the
+ideas beyond where they have been tested. For example, in
+the law of gravitation, which was developed to understand
+the motion of planets, it would have been no use if Newton
+had simply said, 'I now understand the planets', and had
+not felt able to try to compare it with the earth's pull on the
+moon, and for later men to say 'Maybe what holds the
+galaxies together is gravitation'. We must try that. You
+
+                              1 64
+                     Seeking New Laws
+ could say, 'When you get to the size of the galaxies, since
+ you know nothing about it, anything can happen' . I know,
+ but there is no science in accepting this type of limitation.
+ There is no ultimate understanding of the galaxies. On the
+ other hand, if you assume that the entire behaviour is due
+ only to known laws, this assumption is very limited and
+ definite and easily broken by experiment. What we are
+ looking for is just such hypotheses, very definite and easy
+ to compare with experiment. The fact is that the way the
+ galaxies behave so far does not seem to be against the
+ proposition.
+   I can give you another example, even more interesting
+ and important. Probably the most powerful single assump­
+tion that contributes most to the progress of biology is the
+assumption that everything animals do the atoms can do,
+that the things that are seen in the biological world are the
+results of the behaviour of physical and chemical pheno­
+mena, with no 'extra something'. You could always say,
+'When you come to living things, anything can happen'.
+If you accept that you will never understand living things.
+It is very hard to believe that the wiggling of the tentacle of
+the octopus is nothing but some fooling around of atoms
+according to the known physical laws. But when it is investi­
+gated with this hypothesis one is able to make guesses quite
+accurately about how it works. In this way one makes great
+progress in understanding. So far the tentacle has not been
+cut off - it has not been found that this idea is wrong.
+   It is not unscientific to make a guess, although many
+people who are not in science think it is. Some years ago I
+had a conversation with a layman about flying saucers - be­
+cause I am scientific I know all about flying saucers ! I said
+'I don't think there are flying saucers' . So my antagonist
+said, 'Is it impossible that there are flying saucers ? Can you
+prove that it's impossible ?' 'No', I said, 'I can't prove it's
+impossible. It's just very unlikely'. At that he said, 'You are
+very unscientific. If you can't prove it impossible then how
+can you say that it's unlikely ?' But that is the way that is
+scientific. It is scientific only to say what is more likely and
+
+                              1 65
+              The Character of Physical Law
+what less likely, and not to be proving all the time the pos­
+sible and impossible. To define what I mean, I might have
+said to him, 'Listen, I mean that from my knowledge of the
+world that I see around me, I think that it is much more
+likely that the reports of flying saucers are the results of the
+known irrational characteristics of terrestrial intelligence
+than of the unknown rational efforts of extra-terrestrial
+intelligence'. It is just more likely, that is all. It is a good
+guess. And we always try to guess the most likely explana­
+tion, keeping in the back of the mind the fact that if it does
+not work we must discuss the other possibilities.
+   How can we guess what to keep and what to throw away ?
+We have all these nice principles and known facts, but we
+are in some kind of trouble : either we get the infinities, or
+we do not get enough of a description - we are missing some
+parts. Sometimes that means that we have to throw away
+some idea ; at least in the past it has always turned out that
+some deeply held idea had to be thrown away. The question
+is, what to throw away and what to keep. If you throw it all
+away that is going a little far, and then you have not much
+to work with. After all, the conservation of energy looks
+good, and it is nice, and I do not want to throw it away. To
+guess what to keep and what to throw away takes con­
+siderable skill. Actually it is probably merely a matter of
+luck, but it looks as if it takes considerable skill.
+   Probability amplitudes are very strange, and the first
+thing you think is that the strange new ideas are clearly
+cock-eyed. Yet everything that can be deduced from the
+ideas of the existence of quantum mechanical probability
+amplitudes, strange though they are, do work, throughout
+the long list of strange particles, one hundred per cent.
+Therefore I do not believe that when we find out the inner
+guts of the composition of the world we shall find these
+ideas are wrong. I think this part is right, but I am only
+guessing : I am telling you how I guess.
+    On the other hand, I believe that the theory that space is
+continuous is wrong, because we get these infinities and other
+difficulties, and we are left with questions on what deter-
+
+                              1 66
+                     Seeking New Laws
+mines the size of all the particles. I rather suspect that the
+simple ideas of geometry, extended down into infinitely
+small space, are wrong. Here, of course, I am only making a
+hole, and not telling you what to substitute. If l did, I should
+finish this lecture with a new law.
+   Some people have used the inconsistency of all the prin­
+ciples to say that there is only one possible consistent world,
+that if we put all the principles together, and calculate very
+exactly, we shall not only be able to deduce the principles,
+but we shall also discover that these are the only principles
+that could possibly exist if the thing is still to remain con­
+sistent. That seems to me a big order. I believe that sounds
+like wagging the dog by the tail. I believe that it has to be
+given that certain things exist - not all the 50-odd particles,
+but a few little things like electrons, etc. - and then with all
+the principles the great complexities that come out are prob­
+ably a definite consequence. I do not think that you can get
+the whole thing from arguments about consistencies.
+   Another problem we have is the meaning of the partial
+symmetries. These symmetries, like the statement that
+neutrons and protons are nearly the same but are not the
+same for electricity, or the fact that the law of reflection
+symmetry is perfect except for one kind of reaction, are very
+annoying. The thing is almost symmetrical but not com­
+pletely. Now two schools of thought exist. One will say that
+it is really simple, that they are really symmetrical but that
+there is a little complication which knocks it a bit cock-eyed.
+Then there is another school of thought, which has only one
+representative, myself, which says no, the thing may be com­
+plicated and become simple only through the complications.
+The Greeks believed that the orbits of the planets were
+circles. Actually they are ellipses. They are not quite sym­
+metrical, but they are very close to circles. The question is,
+why are they very close to circles ? Why are they nearly
+symmetrical ? Because of a long complicated effect of tidal
+friction - a very complicated idea. It is possible that nature in
+her heart is completely unsymmetrical in these things, but
+in the complexities of reality it gets to look approximately
+
+                              1 67
+              The Character oj Physical Law
+ as if it is symmetrical, and the ellipses look almost like
+ circles. That is another possibility ; but nobody knows, it is
+just guesswork.
+    Suppose you have two theories, A and B, which look
+ completely different psychologically, with different ideas in
+ them and so on, but that all the consequences that are com­
+puted from each are exactly the same, and both agree with
+experiment. The two theories, although they sound different
+at the beginning, have all consequences the same, which is
+usually easy to prove mathematically by showing that the
+logic from A and B will always give corresponding con­
+sequences. Suppose we have two such theories, how are we
+going to decide which one is right ? There is no way by
+science, because they both agree with experiment to the
+same extent. So two theories, although they may have deeply
+different ideas behind them, may be mathematically identi­
+cal, and then there is no scientific way to distinguish them.
+   However, for psychological reasons, in order to guess new
+theories, these two things may be very far from equivalent,
+because one gives a man different ideas from the other. By
+putting the theory in a certain kind of framework you get
+an idea of what to change. There will be something, for
+instance, in theory A that talks about something, and you
+will say, 'I'll change that idea in here'. But to find out what
+the corresponding thing is that you are going to change in
+B may be very complicated - it may not be a simple idea at
+all. In other words, although they are identical before they
+are changed, there are certain ways of changing one which
+looks natural which will not look natural in the other. There­
+fore psychologically we must keep all the theories in our
+heads, and every theoretical physicist who is any good
+knows six or seven different theoretical representations for
+exactly the same physics. He knows that they are all equiva­
+lent, and that nobody is ever going to be able to decide
+which one is right at that level, but he keeps them in his
+head, hoping that they will give him different ideas for
+guessing.
+   That reminds me of another point, that the philosophy or
+
+                             1 68
+                    Seeking New Laws
+ideas around a theory may change enormously when there
+are very tiny changes in the theory. For instance, Newton's
+ideas about space and time agreed with experiment very well,
+but in order to get the correct motion of the orbit of Mer­
+cury, which was a tiny, tiny difference, the difference in the
+character of the theory needed was enormous. The reason
+is that Newton's laws were so simple and so perfect, and
+they produced definite results. In order to get something
+that would produce a slightly different result it had to be
+completely different. In stating a new law you cannot make
+imperfections on a perfect thing ; you have to have another
+perfect thing. So the differences in philosophical ideas be­
+tween Newton's and Einstein's theories of gravitation are
+enormous.
+   What are these philosophies ? They are really tricky ways
+to compute consequences quickly. A philosophy, which is
+sometimes called an understanding of the law, is simply a
+way that a person holds the laws in his mind in order to
+guess quickly at consequences. Some people have said, and
+it is true in cases like Maxwell's equations, 'Never mind the
+philosophy, never mind anything of this kind, just guess the
+equations. The problem is only to compute the answers so
+that they agree with experiment, and it is not necessary to
+have a philosophy, or argument, or words, about the equa­
+tion'. That is good in the sense that if you only guess the
+equation you are not prejudicing yourself, and you will
+guess better. On the other hand, maybe the philosophy helps
+you to guess. It is very hard to say.
+   For those people who insist that the only thing that is
+important is that the theory agrees with experiment, I would
+like to imagine a discussion between a Mayan astronomer
+and his student. The Mayans were able to calculate with
+great precision predictions, for example, for eclipses and for
+the position of the moon in the sky, the position of Venus,
+etc. It was all done by arithmetic. They counted a certain
+number and subtracted some numbers, and so on. There
+was no discussion of what the moon was. There was no
+discussion even of the idea that it went around. They just
+
+                             1 69
+              The Character of Physical Law
+calculated the time when there would be an eclipse, or when
+the moon would rise at the full, and so on. Suppose that a
+young man went to the astronomer and said, 'I have an
+idea. Maybe those things are going around, and there are
+balls of something like rocks out there, and we could cal­
+culate how they move in a completely different way from
+just calculating what time they appear in the sky'. 'Yes', says
+the astronomer, 'and how accurately can you predict
+eclipses ?' He says, 'I haven't developed the thing very far
+yet'. Then says the astronomer, 'Well, we can calculate
+eclipses more accurately than you can with your model, so
+you must not pay any attention to your idea because ob­
+viously the mathematical scheme is better' . There is a very
+strong tendency, when someone comes up with an idea and
+says, 'Let's suppose that the world is this way', for people
+to say to him, 'What would you get for the answer to such
+and such a problem ?' And he says, 'I haven't developed it
+far enough'. And they say, 'Well, we have already developed
+it much further, and we can get the answers very accurately'.
+So it is a problem whether or not to worry about philoso­
+phies behind ideas.
+   Another way of working, of course, is to guess new prin­
+ciples. In Einstein's theory of gravitation he guessed, on top
+of all the other principles, the principle that corresponded to
+the idea that the forces are always proportional to the masses.
+He guessed the principle that if you are in an accelerating
+car you cannot distinguish that from being in a gravitational
+field, and by adding that principle to all the other principles,
+he was able to deduce the correct laws of gravitation.
+   That outlines a number of possible ways of guessing. I
+would now like to come to some other points about the
+final result. First of all, when we are all finished, and we
+have a mathematical theory by which we can compute con­
+sequences, what can we do ? It really is an amazing thing.
+In order to figure out what an atom is going to do in a given
+situation we make up rules with marks on paper, carry them
+into a machine which has switches that open and close in
+ some complicated way, and the result will tell us what the
+
+                              1 70
+                     Seeking New Laws
+atom is going to do ! If the way that these switches open and
+close were some kind of model of the atom, if we thought
+that the atom had switches in it, then I would say that I
+understood more or less what is going on. I find it quite
+amazing that it is possible to predict what will happen by
+mathematics, which is simply following rules which really
+have nothing to do with what is going on in the original
+thing. The closing and opening of switches in a computer
+is quite different from what is happening in nature.
+   One of the most important things in this 'guess - compute
+consequences - compare with experiment' business is to
+know when you are right. It is possible to know when you
+are right way ahead of checking all the consequences. You
+can recognize truth by its beauty and simplicity. It is always
+easy when you have made a guess, and done two or three
+little calculations to make sure that it is not obviously
+wrong, to know that it is right. When you get it right, it is
+obvious that it is right - at least if you have any experience
+- because usually what happens is that more comes out
+than goes in. Your guess is, in fact, that something is very
+simple. If you cannot see immediately that it is wrong, and
+it is simpler than it was before, then it is right. The in­
+experienced, and crackpots, and people like that, make
+guesses that are simple, but you can immediately see that
+they are wrong, so that does not count. Others, the inex­
+perienced students, make guesses that are very complicated,
+ and it sort of looks as if it is all right, but I know it is not
+ true because the truth always turns out to be simpler than
+ you thought. What we need is imagination, but imagination
+ in a terrible strait-jacket. We have to find a new view of the
+ world that has to agree with everything that is known, but
+ disagree in its predictions somewhere, otherwise it is not
+ interesting. And in that disagreement it must agree with
+ nature. If you can find any other view of the world which
+ agrees over the entire range where things have already been
+ observed, but disagrees somewhere else, you have made a
+ great discovery. It is very nearly impossible, but not quite,
+ to find any theory which agrees with experiments over the
+
+                               171
+                The Character of Physical Law
+entire range in which all theories have been checked, and
+yet gives different consequences in some other range, even
+a theory whose different consequences do not turn out to
+agree with nature. A new idea is extremely difficult to think
+of. It takes a fantastic imagination.
+   What of the future of this adventure ? What will happen
+ultimately ? We are going along guessing the laws ; how many
+laws are we going to have to guess ? I do not know. Some of
+my colleagues say that this fundamental aspect of our
+science will go on ; but I think there will certainly not be
+perpetual novelty, say for a thousand years. This thing can­
+not keep on going so that we are always going to discover
+more and more new laws. If we do, it will become boring
+that there are so many levels one underneath the other. It
+seems to me that what can happen in the future is either that
+all the laws become known - that is, if you had enough laws
+you could compute consequences and they would always
+agree with experiment, which would be the end of the line -
+or it may happen that the experiments get harder and harder
+to make, more and more expensive, so you get 99·9 per cent
+of the phenomena, but there is always some phenomenon
+which has just been discovered, which is very hard to
+measure, and which disagrees ; and as soon as you have the
+explanation of that one there is always another one, and
+it gets slower and slower and more and more uninteresting.
+That is another way it may end. But I think it has to end in
+one way or another.
+   We are very lucky to live in an age in which we are still
+making dis<;<overies. It is like the discovery of America -
+you only discover it once. The age in which we live is the age
+in which we are discovering the fundamental laws of nature,
+and that day will never come again. It is very exciting, it is
+marvellous, but this excitement will have to go. Of course in
+the future there will be other interests. There will be the
+interest of the connection of one level of phenomena to
+another - phenomena in biology and so on, or, if you are
+talking about exploration, exploring other planets, but there
+will not still be the same things that we are doing now.
+
+                             1 72
+                     Seeking New Laws
+   Another thing that will happen is that ultimately, if it
+turns out that all is known, or it gets very dull, the vigorous
+philosophy and the careful attention to all these things that
+I have been talking -about will gradually disappear. The
+philosophers who are always on the outside making stupid
+remarks will be able to close in, because we cannot push
+them away by saying, 'If you were right we would be able
+to guess all the rest of the laws', because when the laws are
+all there they will have an explanation for them. For in­
+stance, there are always explanations about why the world
+is three-dimensional. Well, there is only one world, and it is
+hard to tell if that explanation is right or not, so that if
+everything were known there would be some explanation
+about why those were the right laws. But that explanation
+would be in a frame that we cannot criticize by arguing that
+that type of reasoning will not permit us to go further.
+There will be a degeneration of ideas, just like the degenera­
+tion that great explorers feel is occurring when tourists
+begin moving in on a territory.
+   In this age people are experiencing a delight, the tremen­
+dous delight that you get when you guess how nature will
+work in a new situation never seen before. From experi­
+ments and information in a certain range you can guess what
+is going to happen in a region where no one has ever ex­
+plored before. It is a little different from regular exploration
+in that there are enough clues on the land discovered to
+guess what the land that has not been discovered is going
+to look like. These guesses, incidentally, are often very
+different from what you have already seen - they take a lot
+of thought.
+   What is it about nature that lets this happen, that it is
+possible to guess from one part what the rest is going to do ?
+That is an unscientific question : I do not know how to
+answer it, and therefore I am going to give an unscientific
+answer. I think it is because nature has a simplicity and
+therefore a great beauty.
+
+
+
+                              1 73
+

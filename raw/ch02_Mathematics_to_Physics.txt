@@ -1,0 +1,980 @@
+   The Relation of Mathematics to Physics
+
+In thinking out the applications of mathematics and physics,
+it is perfectly natural that the mathematics will be useful
+when large numbers are involved in complex situations. In
+biology, for example, the action of a virus on a bacterium is
+unmathematical. If you watch it under a microscope, a jig­
+gling little virus finds some spot on the odd shaped bacterium
+- they are all different shapes - and maybe it pushes its
+DNA in and maybe it does not. Yet if we do the experiment
+with millions and millions of bacteria and viruses, then we
+can learn a great deal about the viruses by taking averages.
+We can use mathematics in the averaging, to see whether
+the viruses develop in the bacteria, what new strains and
+what percentage ; and so- we can study the genetics, the
+mutations and so forth.
+   To take another more trivial example, imagine an enor­
+mous board, a chequerboard to play chequers or draughts.
+The actual operation of any one step is not math�ma­
+tical - or it is very simple in its mathematics. But ' you
+could imagine that on an enormous board, with lots
+and lots of pieces, some analysis of the best moves, or
+the good moves or bad moves, might be made by a deep
+kind of reasoning which would involve somebody having
+gone off first and thought about it in great depth. That then
+becomes mathematics, involving abstract reasoning. An­
+other example is switching in computers. If you have one
+switch, which is either on or off, there is nothing very mathe­
+matical about that, although mathematicians like to start
+there with their mathematics. But with all the intercon­
+nections and wires, to figure out what a very large system
+will do requires mathematics.
+
+                              35
+               The Character of Physical Law
+   I would like to say immediately that mathematics has a
+tremendous application in physics in the discussion of the
+detailed phenomena in complicated situations, granting the
+fundamental rules of the game. That is something which I
+would spend most of my time discussing if I were talking
+only about the relation of mathematics and physics. But
+since this is part of a series of lectures on the character of
+physical law I do not have time to discuss what happens in
+complicated situations, but will go immediately to another
+question, which is the character of the fundamental laws.
+   If we go back to our chequer game, the fundamental laws
+are the rules by which the chequers move. Mathematics may
+be applied in the complex situation to figure out what in
+given circumstances is a good move to make. But very little
+mathematics is needed for the simple fundamental character
+of the basic laws. They can be simply stated in English for
+chequers.
+   The strange thing about physics is that for the funda­
+mental laws we still need mathematics. I will give two
+examples, one in which we really do not, and one in which
+we do. First, there is a law in physics called Faraday's law,
+which says that in electrolysis the amount of material which
+is deposited is proportional to the current and to the time
+that the current is acting. That means that the amount of
+material deposited is proportional to the charge which
+goes through the system. It sounds very mathematical, but
+what is actually happening is that the electrons going through
+the wire each carry one charge. To take a particular example,
+maybe to deposit one atom requires one electron to come,
+so the number of atoms that are deposited is necessarily
+equal to the number of electrons that flow, and thus propor­
+tional to the charge that goes through the wire. So that
+mathematically-appearing law has as its basis nothing very
+deep, requiring no real knowledge of mathematics. That one
+electron is needed for each atom in order for it to deposit
+itself is mathematics, I suppose, but it is not the kind of
+mathematics that I am talking about here.
+   On the other hand, take Newton's law for gravitation,
+
+                             36
+        The Relation of Mathematics to Physics
+which has the aspects I discussed last time. I gave you the
+equation :
+
+                                    I
+
+                          f: G "',.':
+
+j ust to impress you with the speed with which mathematical
+symbols can convey information. I said that the force was
+proportional to the product of the masses of two objects,
+and inversely as the square of the distance between them,
+ and aho that bodies react to forces by changing their speeds,
+ or changing their motions, in the direction of the force by
+ amounts proportional to the force and inversely propor­
+tional to their masses . Those are words all right, and I did
+ not necessarily have to write the equation. Nevertheless it
+ is kind of mathematical, and we wonder how this can be a
+ fundamental law. What does the planet do ? Does it look
+ at the sun, see how far away it is, and decide to calculate on
+ its internal adding machine the inverse of the square of the
+ distance, which tells it how much to move ? This is certainly
+ no explanation of the machinery of gravitation ! Ycu might
+ want to look further, and various people have tried to look
+ further. Newton was originally asked about his theory -
+ 'But it doesn't mean anything - it doesn't tell us anything' .
+ He said, 'It tells you how it moves. That should be enough.
+ I have told you how it moves, not why.' But people often
+ are unsatisfied without a mechanism, and I would like to
+ describe one theory which has been invented, among others,
+ of the type you might want. This theory suggests that this
+ effect is the result of large numbers of actions, which would
+ explain why it is mathematical.
+    Suppose that in the world everywhere there are a lot of
+ particles, flying through us at very high speed. They come
+ equally in all directions - just shooting by - and once in
+ a while they hit us in a bombardment. We, and the sun,
+  are practically transparent for them , practically but not
+
+                              37
+             The Character of Physical Law
+completely, and some of them hit. Look, then, at what
+would happen (fig. 8).
+
+
+
+
+                                      s          <
+
+
+
+                           Figure 8
+
+S is the sun, and E the earth. If the sun were not there, par­
+ticles would be bombarding the earth from all sides, giving
+little impulses by the rattle, bang, bang of the few that hit.
+This will not shake the earth in any particular direction, be­
+cause there are as many coming from one side as from the
+ other, from top as from bottom. However, when the sun is
+ there the particles which are coming from that direction are
+partly absorbed by the sun, because some of them hit the
+sun and do not go through. Therefore the number coming
+from the sun's direction towards the earth is less than the
+number coming from the other sides, because they meet an
+obstacle, the sun. It is easy to see that the farther the sun
+is away, of all the possible directions in which particles can
+come, a smaller proportion of the particles are being taken
+out. The sun will appear smaller - in fact inversely as the
+square of the distance. Therefore there will be an impulse on
+the earth towards the sun that varies inversely as the square
+of the distance. And this will be a result of large numbers of
+very simple operations, just hits, one after the other, from
+all directions. Therefore the strangeness of the mathematical
+relation will be very much reduced, becaus� the fundamental
+operation is much simpler than calculating the inverse of
+the square of the distance. This design, with the particles
+bouncing, does the calculation.
+
+                             38
+          The Relation of Mathematics to Physics
+   The only trouble with this scheme is that it does not
+work, for other reasons. Every theory that you make up has
+to be analysed against all possible consequences, to see if it
+predicts anything else. And this does predict something else.
+If the earth is moving, more particles will hit it from in
+front than from behind. (If you are running in the rain, more
+rain hits you in the front of the face than in the back of the
+head, because you are running into the rain.) So, if the
+earth is moving it is running into the particles coming to­
+wards it and away from the ones that are chasing it from
+behind. So more particles will hit it from the front than
+from the back, and there will be a force opposing any
+motion. This force would slow the earth up in its orbit, and
+it certainly would not have lasted the three or four billion
+years (at least) that it has been going around the sun. So
+that is the end of that theory. 'Well,' you say, 'it was a
+good one, and I got rid of the mathematics for a while.
+Maybe I could invent a better one.' Maybe you can, because
+nobody knows the ultimate. But up to today, from the time
+ of Newton, no one has invented another theoretical descrip­
+tion of the mathematical machinery behind this law which
+does not either say the same thing over again, or make the
+mathematics harder, or predict some wrong phenomena. So
+ there is no model of the theory of gravitation today, other
+ than the mathematical form.
+    If this were the only law of this character it would be
+ interesting and rather annoying. But what turns out to be
+ true is that the more we investigate, the more laws we find,
+ and the deeper we penetrate nature, the more this disease
+ persists. Every one of our laws is a purely mathematical
+ statement in rather complex and abstruse mathematics.
+ Newton's statement of the law of gravitation is relatively
+ simple mathematics. It gets more and more abstruse and
+ more and more difficult as we go on. Why ? I have not the
+ slightest idea. It is only my purpose here to tell you about
+ this fact. The burden of the lecture is just to emphasize he
+ fact that it is impossible to explain honestly the beauties of
+ the laws of nature in a way that people can feel, without
+
+                              39
+              The Character of Physical Law
+their having some deep understanding of mathematics. I am
+sorry, but this seems to be the case.
+   You might say, 'All right, then if there is no explanation
+the of law, at least tell me what the law is. Why not tell me
+in words instead of in symbols ? Mathematics is just a
+language, and I want to be able to translate the language' .
+I n fact I can, with patience, and I think I partly did. I could
+go a little further and explain in more detail that the equa­
+tion means that if the distance is twice as far the force is one
+fourth as much, and so on. I could convert all the symbols
+into words. In other words I could be kind to the laymen as
+they all sit hopefully waiting for me to explain something.
+Different people get different reputations for their skill at
+explaining to the layman in layman's language these difficult
+and abstruse subjects. The layman then searches for book
+after book in the hope that he will avoid the complexities
+which ultimately set m, even with the best expositor of this
+type. He finds as he reads a generally increasing confusion,
+one complicated statement after another, one difficult-to­
+understand thing after another, all apparently disconnec­
+ted from one another. It becomes obscure, and he hopes that
+maybe in some other book there is some explanation. . . .
+The author almost made it - maybe another fellow will
+make it right.
+   But I do not think it is possible, because mathematics is
+not just another language. Mathematics is a language plus
+reasoning ; it is like a language plus logic. Mathematics is a
+tool for reasoning. It is in fact a big collection of the results
+of some person's careful thought and reasoning. By mathe­
+matics it is possible to connect one statement to another. For
+instance, I can say that the force is directed towards the sun.
+I can also tell you, as I did, that the planet moves so that if
+I draw a line from the sun to the planet, and draw another
+line at some definite period, like three weeks, later, then the
+area that is swung out by the planet is exactly the same as
+it will be in the next three weeks, and the next three weeks,
+and so on as it goes around the sun. I can explain both of
+those statements carefully, but I cannot explain why they
+
+                               40
+         The Relation of Mathematics to Physics
+are both the same. The apparent enormous complexities of
+nature, with all its funny laws and rules, each of which has
+been carefully explained to you, are really very closely
+interwoven. However, if you do not appreciate the mathe­
+matics, you cannot see, among the great variety of facts,
+that logic permits you to go from one to the other.
+   It may be unbelievable that I can demonstrate that equal
+areas will be swept out in equal times if the forces are direc­
+ted towards the sun. So if I may, I will do one demonstra­
+tion to show you that those two things really are equivalent,
+so that you can appreciate more than the mere statement
+of the two laws. I will show that the two laws are connected
+so that reasoning alone will bring yo u from one to the
+other, and that mathematics is just organized reasoning.
+Then you will appreciate the beauty of the relationship of
+the statements. I am going to prove the relationship that if
+the forces are directed towards the sun equal areas are swept
+out in equal times.
+
+
+
+
+                            Figure 9
+
+
+  We start with a sun and a planet (fig. 9), and we imagine
+that at a certain time the planet is at position 1 . It is moving
+in such a way that, say, one second later it has moved to
+position 2. If the sun did not exert a force on the planet,
+then, by Galileo's principle of inertia, it would keep right on
+going in a straight line. So after the same interval of time,
+the next second, it would have moved exactly the same
+
+                               41
+               The Character of Physical Law
+distance in the same straight line, to the position 3 . First we
+are going to show that if there is no force, then equal areas
+are swept out in equal times. I remind you that the area of a
+triangle is half the base times the altitude, and that the
+altitude is the vertical distance to the base. If the triangle is
+obtuse (fig. 10), then the altitude is the vertical height AD
+and the base is BC. Now let us compare the areas which
+would be swept out if the sun exerted no force whatsoever
+(fig. 9).
+
+
+
+
+                            Figure 10
+
+
+
+
+The two distances 1-2 and 2-3 are equal, remember. The
+question is, are the two areas equal ? Consider the triangle
+made from the sun and the two points 1 and 2. What is its
+area ? It is the base 1 -2, multiplied by half the perpendicular
+height from the baseline to S. What about the other triangle,
+the triangle in the motion from 2 to 3 ? Its area is the base
+2-3, times half the perpendicular height to S. The two tri­
+angles have the same altitude, and, as I indicated, the same
+base, and therefore they have the same area. So far so good.
+If there were no force from the sun, equal areas would be
+swept out in equal times. But there is a force from the sun.
+During the interval 1 -2-3 the sun is pulling and changing
+the motion in various directions towards itself. To get a good
+approximation we will take the central position, or average
+position, at 2, and say that the whole effect during the
+interval 1-3 was to change the motion by some amount in
+the direction of the line 2-S (fig. 1 1).
+
+                               42
+          The Relation of Mathematics to Physics
+
+
+
+                                              'y-- eq,�aJ albtuJr.s
+                       -   - -                 '
+                  --
+              -
+         --
+    --
+-
+
+
+
+
+                                 Figure 1 1
+
+
+
+   This means that though the particles were moving on the
+line 1-2, and would, were there no force, have continued to
+move on the same line in the next second, because of the
+influence of the sun the motion is altered by an amount that
+is poking in a direction parallel to the line 2-S. The next
+motion is therefore a compound of what the planet wanted
+to do and the change that has been induced by the action
+of the sun. So the planet does not really end up at position 3,
+but rather at position 4. Now we would like to compare the
+areas of the triangles 23S and 24S, and I will show you that
+those are equal. They have the same base, S-2. Do they
+have the same altitude ? Sure, because they are included
+between parallel lines. The distance from 4 to the line S-2
+is equal to the distance from 3 to line S-2 (extended). Thus
+the area of the triangle S24 is the same as S23. I proved
+earlier that S 1 2 and S23 were equal in area, so we now
+know S 1 2    =S24. So, in the actual orbital motion of the
+planet the areas swept out in the first second and the second
+second are equal. Therefore, by reasoning, we can see a
+connection between the fact that the force is towards the sun,
+and the fact that the areas are equal. Isn't that ingenious ? I
+borrowed it straight from Newton. It comes right out of the
+Principia, diagram and all. Only the letters are different,
+because he wrote in Latin and these are Arabic numerals.
+
+                                    43
+               The Character of Physical Law
+   Newton made all the proofs in his book geometrical.
+Today we do not use that kind of reasoning. We use a kind
+of analytic reasoning with symbols. It requires ingenuity to
+dr'aw the correct triangles, to notice about the areas, and to
+figure out how to do this. But there have been improvements
+in the methods of analysis, which are faster and more
+efficient. I want to show what this looks like in the notation
+of the more modern mathematics, where you do nothing but
+write a lot of symbols to figure it out.
+   We want to talk about how fast the area changes, and we
+represent that by A. The area changes when the radius is
+swinging, and it is the component of velocity at right angles
+to the radius, times the radius, that tells us how fast the
+area changes. So this is the component of the radial distance
+multiplied by the velocity, or rate of change of the distance.
+
+
+
+
+The question now is whether the rate of change of area itself
+changes. The principle is that the rate of change of the area
+is not supposed to change. So we differentiate this again,
+and this means some little trick about putting dots in the
+right place, that is all. You have to learn the tricks ; it is
+just a series of rules- that people have found out that are
+very useful for such a thing. We write :
+
+
+
+
+This first term says to take the component of the velocity
+at right angles to the velocity. lt is zero ; the velocity is in
+the s ame direction as itself. The acceleration, which is the
+second derivative, r with two dots, or the derivative of the
+velocity, is the force divided by the mass.
+   This says therefore that the rate of change of the rate of
+change of the area is the component of force at right angles
+
+                              44
+         The Relation of Mathematics to Physics
+to the radius, but if the force is in the direction of the radius,
+
+                  �                    ..
+                   r >C   to/,.. = 0 or A
+                          �
+                                            :   0
+
+
+
+as Newton said, then there is no force at right angles to the
+radius, and that means that the rate of change of area does
+not change. This merely illustrates the power of analysis
+with different kinds of notation. Newton knew how to do
+this, more or less, with slightly different notations ; but he
+wrote everything in the geometrical form, because he tried
+to make it possible for people to read his papers. He in­
+vented the calculus, which is the kind of mathematics I
+have just shown.
+   This is a good illustration of the relation of mathematics
+to physics. When the problems in physics become difficult
+we may often look to the mathematicians, who may already
+have studied such things and have prepared a line of reason­
+ing for us to follow. On the other hand they may not have,
+in which case we have to invent our own line of reasoning,
+which we then pass back to the mathematicians. Everybody
+who reasons carefully about anything is making a contri­
+bution to the knowledge of what happens when you think
+about something, and if you abstract it away and send it
+to the Department of Mathematics they put it in books as
+a branch of mathematics. Mathematics, then, is a way of
+going from one set of statements to another. It is evidently
+useful in physics, because we have these different ways in
+which we can speak of things, and mathematics permits us
+to develop consequences, to analyse the situations, and to
+change the laws in different ways to connect the various
+statements. In fact the total amount that a physicist knows
+is very little. He has only to remember the rules to get him
+from one place to anoth�r and he is all right, because all
+the various statements about equal times, the force being
+in the direction of the radius, and so on, are all interconnec­
+ted by reasoning.
+
+                                45
+               The Character of Physical Law
+   Now an interesting question comes up. Is there a place to
+begin to deduce the whole works ? Is there some particular
+pattern or order in nature by which we can understand that
+one set of statements is more fundamental and one set of
+statements more consequential ? There are two kinds of ways
+of looking at mathematics, which for the purpose of this
+lecture I will call the Babylonian tradition and the Greek
+tradition. In Babylonian schools in mathematics the student
+would learn something by doing a large number of examples
+until he caught on to the general rule. Also he would know
+a large amount of geometry, a lot of the properties of
+ciicles, the theorem of Pythagoras, formulae for the areas
+of cubes and triangles ; in addition, some degree of argument
+was available to go from one thing to another. Tables of
+numerical quantities were available so that they could solve
+elaborate equations. Everything was prepared for calcula­
+ting things out. But Euclid discovered that there was a way
+in which all of the theorems of geometry could be ordered
+from a set of axioms that were particularly simple. The
+Babylonian attitude - or what I call Babylonian mathe­
+matics - is that .you know all of the various theorems and
+many of the connections in between, but you have never
+fully realized that it could all come up from a bunch of
+axioms. The most modern mathematics concentrates on
+axioms and demonstrations within a very definite frame­
+work of conventions of what is acceptable and what is not
+acceptable as axioms. Modern geometry takes something
+like Euclid's axioms, modified to be more perfect, and then
+shows the deduction of the system. For instance, it would
+not be expected that a theorem like Pythagoras's (that the
+sum of the areas of squares put on two sides of a right­
+angled triangle is equal to the area of the square on the
+hypotenuse) should be an axiom. On the other hand, from
+another point of view of geometry, that of Descartes, the
+Pythagorean theorem is an axiom.
+   So the first thing we have to accept is that even in mathe­
+matics you can start in different places. If all these various
+theorems are interconnected by reasoning there is no real
+
+                             46
+           The Relation of Mathematics to Physics
+way to say 'These are the most fundamental axioms', be­
+cause if you were told something different instead you could
+also run the reasoning the other way. It is like a bridge with
+lots of members, and it is over-connected ; if pieces have
+dropped out you can reconnect it another way. The mathe­
+matical tradition of today is to start with some particular
+ideas which are chosen by some kind of convention to be
+axioms, and then to build up the structure from there. What
+I have called the Babylonian idea is to say, 'I happen to
+know this, and I happen to know that, and maybe I know
+that ; and I work everything out from there. Tomorrow I
+may forget that this is true, but remember that something
+else is true, so I can reconstruct it all again. I am never quite
+sure of where I am supposed to begin or where I am sup­
+posed to end. I just remember enough all the time so that
+as the memory fades and some of the pieces fall out I can
+put the thing back together again every day'.
+    The method of always starting from the axioms is not
+very efficient in obtaining theorems. In working something
+ out in geometry you are not very efficient if each time you
+have to start back at the axioms. If you have to remember
+ a few things in geometry you can always get somewhere
+ else, but it is much more efficient to do it the other way. To
+ decide which are the best axioms is not necessarily the most
+ efficient way of getting around in the territory. In physics
+ we need the Babylonian method, and not the Euclidian or
+ Greek method. I would like to explain why.
+    The problem in the Euclidian method is to make some­
+ thing about the axioms a little more interesting or important.
+ But in the case of gravitation, for example, the question we
+ are asking is : is it more important, more basic, or is it a
+ better axiom, to say that the force is towards the sun, or to
+ say that equal areas are swept out in equal times ? From one
+ point of view the force statement is better. If l state what the
+ forces are I can deal with a system with many particles in
+ which the orbits are no longer ellipses, because the force
+ statement tells me about the pull of one on the other. In
+ this case the theorem about equal areas fails. Therefore I
+
+                                47
+               The Character of Physical Law
+think that the force law ought to be an axiom instead of the
+other. On the other hand, the principle of equal areas can
+be generalized, in a system of a large number of particles,
+to another theorem. It is rather complicated to say, and not
+quite as pretty as the original statement about equal areas,
+but it is obviously its offspring. Take a system with a large
+number of particles, perhaps Jupiter, Saturn, the Sun, and
+lots of stars, all interacting with each other, and look at it
+from far away projected on a plane (fig. 12). The particles
+are all moving in various directions, and we take any
+point and calculate how much area is being swept out by
+the radius from this point to each of the particles. In this
+calculation the masses which are heavier count more
+strongly ; if one particle is twice as heavy as another its
+area will count twice as much. So we count each of the
+areas swept out in proportion to the mass that is doing the
+sweeping, add them all together, and the resulting total is
+not changing in time. That total is called the angular momen­
+tum, and this is called the law of conservation of angular
+momentum. Conservation just means that it does not
+change.
+
+
+                                         �                     �
+                     7f.\                  I             I
+                    0              ·,    I           I
+
+
+                                                             ,'�
+                      '             \ I             I
+                          '          \ I           I
+                              \       \I       ,'
+                                  ' , ,,       '    ;'
+                                        ��-- - - - ·
+                                    Figure 1 2
+
+
+One of the consequences of this is as follows. Imagine a
+lot of stars falling together to form a nebula, or galaxy. At
+first they are very far out, on long radii from the centre,
+moving slowly and allowing a small amount of area to be
+generated. As they come closer the distances to the centre
+
+                                               48
+          The Relation of Jvlathematics to Physics
+will shorten, and when they are very far in the radii will
+be very small, so in order to produce the same area per
+second they will have to move a great deal faster. You will
+see then that as the stars come in they will swing and swirl
+around faster and faster, and thus we can roughly under­
+stand the qualitative shape of the spiral nebulae. In the
+same way we can understand how a skater spins. He starts
+with his leg out, moving slowly, and as he pulls his leg in he
+spins faster. When the leg is out it is contributing a certain
+amount of area per second, and then when he brings his
+leg in he has to spin much faster to produce the same
+amount of area. But I did not prove it for the skater : the
+skater uses muscle force, and gravity is a different force. Yet
+it is true for the skater.
+   Now we have a problem. We can deduce often from one
+part of physics, like the Law of Gravitation, a principle
+which turns out to be much more valid than the derivation.
+This does not happen in mathematics ; theorems do not
+come out in places where they are not supposed to be. In
+other words, if we were to say that the postulate of physics
+was the equal area law of gravitation, then we could deduce
+the conservation of angular momentum, but only for gravi­
+tation. Yet we discover experimentally that the conservation
+of angular momentum is a much wider thing. Newton had
+other postulates by which he could get the more general
+conservation law of angular momentum. But these New­
+tonian laws were wrong. There are no forces, it is all a lot
+of baloney, the particles do not have orbits, and so on. Yet
+the analogue, the exact transformation of this principle
+about the areas and the conservation of angular momentum,
+is true. It works for atomic motions in quantum mechanics,
+and, as far as we can tell, it is still exact today. We have
+these wide principles which sweep across the different laws,
+and if we take the derivation too seriously, and feel that
+one is only valid because another is valid, then we cannot
+understand the interconnections of the different branches of
+physics. Some day, when physics is complete and we know
+all the laws, we may be able to start with some axioms, and
+
+                              49
+               The Character of Physical Law
+no doubt somebody will figure out a particular way of doing
+it so that everything else can be deduced. But while we do
+not know all the laws, we can use some to make guesses at
+theorems which extend beyond the proof. In order to under­
+stand physics one must always have a neat balance, and
+contain in one's head all of the various propositions and
+their interrelationships, because the laws often extend be­
+yond the range of their deductions. This will only have no
+importance when all the laws are known.
+   Another thing, a very strange one, that is interesting in
+the relation of mathematics to physics is the fact that by
+mathematical arguments you can show that it is possible to
+start from many apparently different starting points, and
+yet come to the same thing. That is pretty clear. If you have
+axioms, you can instead use some of the theorems ; but
+actually the physical laws are so delicately constructed that
+the different but equivalent statements of them have such
+qualitatively different characters, and this makes them very
+interesting. To illustrate this I am going to state the law of
+gravitation in three different ways, all of which are exactly
+equivalent but sound completely different.
+   The first statement is that there are forces between
+objects, according to the equation which I have given you
+before.
+
+
+
+
+Each object, when it sees the force on it, accelerates or
+changes its motion, at a certain amount per second. It is the
+regular way of stating the law, I call it Newton's law. This
+statement of the law says that the force depends on some­
+thing at a finite distance away. It has what we call an unlocal
+quality. The force on one object depends on where another
+one is some distance away.
+   You may not like the idea of action at a distance. How
+can this object know what is going on over there ? So there
+is another way of stating the laws, which is very strange,
+
+                              50
+          The Relation of Mathematics to Physics
+called the field way. It is hard to explain, but I want to give
+you some rough idea of what it is like. It says a completely
+different thing. There is a number at every point in space (I
+know it is a number, not a mechanism : that is the trouble
+with physics, it must be mathematical), and the numbers
+change when you go from place to place. If an object is
+placed at a point in space, the force on it is in the direction
+in which that number changes most rapidly (I will give it its
+usual name, the potential, the force is in the direction in
+which the potential changes). Further, the force is propor­
+tional to how fast the potential changes as you move. That
+is one part of the statement, but it is not enough, because I
+have yet to tell you how to determine the way in which the
+potential varies. I could say the potential varies inversely
+as the distance from each object, but that is back to the
+reaction-at-a-distance idea. You can state the law in another
+way, which says that you do not have to know what is going
+on anywhere outside a little ball. If you want to know what
+the potential is at the centre of the ball, you need only tell
+me what it is on the surface of the ball, however small. You
+do not have to look outside, you just tell me what it is in
+the neighbourhood, and how much mass there is in the ball.
+The rule is this. The potential at the centre is equal to the
+average of the potential on the surface of the ball, minus
+the same constant, G, as we had in the other equation,
+divided by twice the radius of the ball (which we will call a),
+and then multiplied by the mass inside the ball, if the ball
+ is small enough.
+
+
+
+
+You see that this law is different from the other, because it
+tells. what happens at one point in terms of what happens
+very close by. Newton's law tells what happens at one time
+in terms of what happens at another instant. It gives from
+inst&nt to instant how to work it out, but in space leaps
+from place to place. The second statement is both local in
+
+                               51
+                The Character of Physical Law
+ time and local in space, because it depends only on what is
+in the neighbourhood. But both statements are exactly
+equivalent mathematically.
+   There is another completely different way of stating this,
+different in the philosophy and the qualitative ideas in­
+volved. If you do not like action at a distance I have shown
+you can get away without it. Now I want to show you a
+statement which is philosophically the exact opposite. In
+this there is no discussion at all about how the thing works
+its way from place to place ; the whole is contained in an
+overall statement, as follows. When you have a number of
+particles, and you want to know how one moves from one
+place to another, you do it by inventing a possible motion
+that gets from one place to the other in a given amount of
+time (fig. 13). Say the particle wants to go from X to Y in
+an hour, and you want to know by what route it can go.
+What you do is to invent
+various curves, and calculate                              >(
+on each curve a certain
+quantity. (I do not want to
+tell you what the quantity is,
+but for those who have heard
+of these terms the quantity
+on each route is the average
+of the difference between the
+kinetic and the potential
+energy.) If you calculate this        Y
+quantity for one route, and                  Figure 13
+then for another, you will
+get a different number for each route. There is one route which
+gives the least possible number, however, and that is the
+route that the particle in nature actually takes ! We are now
+describing the actual motion, the ellipse, by saying some­
+thing about the whole curve. We have lost the idea of causa­
+lity, that the particle feels the pull and moves in accordance
+with it. Instead of that, in some grand fashion it smells all
+the curves, all the possibilities, and decides which one to
+take (by choosing that for which our quantity is least).
+
+                              52
+           The Relation of Mathematics to Physics
+    This is an example of the wide range of beautiful ways of
+describing nature. When people say that nature must have
+causality, you can use Newton's law ; or if they say that
+nature must be stated in terms of a minimum principle,
+you talk about it this last way ; or if they insist that nature
+must have a local field - sure, you can do that. The question
+is : which one is right ? If these various alternatives are not
+exactly equivalent mathematically, if for certain ones there
+will be different consequences than for others, then all we
+have to do is to experiment to find out which way nature
+actually chooses to do it. People may come along and argue
+philosophically that they like one better than another ; but
+we have learned from much experience that all philosophical
+intuitions about what nature is going to do fail. One just
+has to work out all the possibilities, and try all the alter­
+natives. But in the particular case I am talking about the
+theories are exactly equivalent. Mathematically each of the
+three different formulations, Newton's law, the local field
+method and the minimum principle, gives exactly the same
+consequences . What do we do then ? yOU will read in all
+the books that we cannot decide scientifically on one or the
+ other. That is true. They are equivalent scientifically. It is
+impossible to make a decision, because there is no experi­
+ mental way to distinguish between them if all the con­
+ sequences are the same. But psychologically they are very
+different in two ways. First, philosophically you like them
+ or do not like them ; and training is the only way to beat
+ that disease. Second, psychologically they are different
+ because they are completely unequivalent when you are
+ trying to guess new laws.
+     As long as physics is incomplete, and we are trying to
+ understand the other laws, then the different possible form­
+ ulations may give clues about what might happen in other
+ circumstances. In that case they are no longer equivalent,
+ psychologically, in suggesting to us guesses about what the
+ laws may look like in a wider situation. To give an example,
+ Einstein realized that electrical signals could not propagate
+ faster than the speed of light . He guessed that it was a general
+
+                                53
+                 The Character of Physical Law
+  principle. (This is the same guessing game as taking the
+  angular momentum and extending it from one case where
+  you have proved it, to the rest of the phenomena of the
+  universe.) He guessed that it was true of everything, and he
+  guessed that it would be true of gravitation. If signals can­
+  not go any faster than the speed of light, then it turns out
+ that the method of describing the forces instantaneously is
+ very poor. So in Einstein's generalization of gravitation
+ Newton's method of describing physics is hopelessly in­
+ adequate and enormously complicated, whereas the field
+ method is neat and simple, and so is the minimum principle.
+ We have not decided between the last two yet.
+    In fact it turns out that in quantum mechanics neither is
+ right in exactly the way I have stated them, but the fact that
+ a minimum principle exists turns out to be a consequence
+ of the fact that on a small scale particles obey quantum
+ mechanics . The best law, as at present understood, is really
+ a combination of the two in which we use minimum prin­
+ ciples plus local laws. At present we believe that the laws of
+ physics have to have the local character and also the mini­
+ mum principle, but we do not really know. If you have a
+ structure that is only partly accurate, and something is
+ going to fail, then if you write it with just the right axioms
+maybe only one axiom fails and the rest remain, you need
+ only change one little thing. But if you write it with another
+ set of axioms they may all collapse, because they all lean
+ on that one thing that fails. We cannot tell ahead of time,
+ without some intuition, which is the best way to write it so
+that we can find out the new situation. We must always keep
+all the alternative ways of looking at a thing in our heads ;
+ so physicists do Babylonian mathematics, and pay but
+little attention to the precise reasoning from fixed axioms.
+    One of the amazing characteristics of nature is the variety
+of interpretational schemes which is possible. It turns out
+that it is only possible because the laws are just so, special
+and delicate. For instance, that the law is the inverse square
+is what permits it to become local ; if it were the inverse cube
+it could not be done that way. At the other end of the
+
+                              54
+         The Relation of Mathematics to Physics
+equation, the fact that the force is related to the rate of
+change of velocity is what permits the minimum principle
+way of writing the laws. If, for instance, the force were
+proportional to the rate of change of position instead of
+velocity, then you could not write it in that way. If you
+modify the laws much you find that you can only write them
+in fewer ways. I always find that mysterious, and I do not
+understand the reason why it is that the correct laws of
+physics seem to be expressible in such a tremendous variety
+of ways. They seem to be able to get through several wickets
+at the same time.
+   I should like to say a few things on the relation of mathe­
+matics and physics which are a little more general. Mathe­
+maticians are only dealing with the structure of reasoning,
+and they do not really care what they are talking about. They
+do not even need to know what they are talking about, or,
+as they themselves say, whether what they say is true. I will
+explain that. You state the axioms, such-and-such is so,
+and such-and-such is so. What then ? The logic can be
+carried out without knowing what the such-and-such words
+mean. If the statements about the axioms are carefully for­
+mulated and complete enough, it is not necessary for the
+man who is doing the reasoning to have any knowledge of
+the meaning of the words in order to deduce new conclu­
+sions in the same language. If I use the word triangle in one
+of the axioms there will be a statement about triangles in
+the conclusion, whereas the man who is doing the reasoning
+may not know what a triangle is. But I can read his reason­
+ing back and say, 'Triangle, that is just a three-sided what­
+have-you, which is so-and-so', and then I know his new facts.
+In other words, mathematicians prepare abstract reasoning
+ready to be used if you have a set of axioms about the real
+world. But the physicist has meaning to all his phrases. That
+is a very important thing that a lot of people who come to
+physics by way of mathem1tics do not appreciate. Physics
+is not mathematics, and mathematics is not physics. One
+helps the other. But in physics you have to have an under­
+standing of the connection of words with the real world. It is
+
+                              55
+               The Character of Physical Law
+necessary at the end to translate what you have figured out
+into English, into the world, into the blocks of copper and
+glass that you are going to do the experiments with. Only in
+that way can you find out whether the consequences are
+true . This is a problem which is not a problem of mathe­
+matics at all.  ·
+
+
+
+   Of course it is obvious that the mathematical reasonings
+which have been developed are of great power and use for
+physicists. On the other hand, sometimes the physicists'
+reasoning is useful for mathematicians.
+  Mathematicians like to make their reasoning as general
+as possible. If I say to them, 'I want to talk about ordinary
+three dimensional space', they say 'If you have a space of
+n dimensions, then here are the theorems'. 'But I only want
+the case 3', 'Well, substitute n = 3.' ! So it turns out that
+many of the complicated theorems they have are much
+simpler when adapted to a special case. The physicist is
+always interested i n the special case ; he is never interested
+ in the general case. He is talking about something ; he is
+ not talking abstractly about anything. He wants to discuss
+ the gravity law in three dimensions ; he never wants the
+ arbitrary force case in n dimensions. So a certain amount of
+ reducing is necessary, because the mathematicians have
+ prepared these things for a wide range Qf problems. This
+is very useful, and later on it always turns out that the poor
+physicist has to come back and say, 'Excuse me, when you
+wanted to tell me about four dimensions . . .'
+   When you know what it is you are talking about, that
+some symbols represent forces, others masses, inertia, and
+so on, then you can use a lot of commonsense, seat-of-the­
+pants feeling about the world. You have seen various things,
+and you know more or less how the phenomenon is going
+to behave. But the poor mathematician translates it into
+equations, and as the symbols do not mean anything to
+him he has no guide but precise mathematical rigour and
+care in the argument. The physicist, who knows more or
+less how the answer is going to come out, can sort of guess
+part way, and so go along rather rapidly. The mathematical
+
+                             56
+         The Relation of Mathematics to Physics
+rigour of great precision is not very useful in physics. But
+one should not criticize the mathematicians on this score.
+It is not necessary that just because something would be
+useful to physics they have to do it that way. They are
+doing their own job. If you want something else, then you
+work it out for yourself.
+   The next question is whether, when trying to guess a new
+law, we should use the seat-of-the-pants feeling and philoso­
+phical principles - 'I don't like the minimum principle', or
+'I do like the minimum principle', 'I don't like action at a
+distance', or 'I do like action at a distance' . To what extent
+do models help ? It is interesting that very often models do
+help, and most physics teachers try to teach how to use
+models and to get a good physical feel for how things are
+going to work out. But it always turns out that the greatest
+discoveries abstract away from the model and the model
+never does any good. Maxwell's discovery of electro­
+dynamics was first made with a lot of imaginary wheels and
+idlers in space. But when you get rid of all the idlers and
+things in space the thing is O.K. Dirac* discovered the
+correct laws for relativity quantum mechanics simply by
+guessing the equation. The method of guessing the equation
+seems to be a pretty effective way of guessing new laws. This
+shows again that mathematics is a deep way of expressing
+nature, and any attempt to express nature in philosophical
+principles, or in seat-of-the-pants mechanical feelings, is
+not an efficient way.
+   It always bothers me that, according to the laws as we
+understand them today, it takes a computing machine an
+infinite number of logical operations to figure out what
+goes on in no matter how tiny a region of space, and no
+matter how tiny a region of time. How can all that be going
+on in that tiny space '? Why should it take an infinite amount
+of logic to figure out what one tiny piece of space / time is
+going to do ? So I have often made the hypothesis that
+
+* Paul Dirac, Brit ish physicist . J o i nt Nobel Prize with Schrodinger,
+193 3 .
+
+
+                                   57
+                The Character of Physical Law
+ultimately physics will not require a mathematical statement,
+that in the end the machinery will be revealed, and the laws
+will �urn o ut to be simple, like the chequer board with all its
+apparent complexities. But this speculation is of the same
+nature as those other people make - 'I like it', 'I don't like
+it', - and it is not good to be too prejudiced about these
+things.
+   To summarize, I would use the words of Jeans, who said
+that 'the Great Architect seems to be a mathematician' . To
+those who do not know mathematics it is difficult to get
+across a real feeling as to the beauty, the deepest beauty, of
+nature. C. P. Snow talked about two cultures. I really think
+that those two cultures separate people who have and
+people who have not had this experience of understanding
+mathematics well enough to appreciate nature once.
+   It is too bad that it has to be mathematics, and that mathe­
+matics is hard for some people. It is reputed - I do not know
+if it is true - that when one of the kings was trying to learn
+geometry from Euclid he complained that it was difficult.
+And Euclid said, 'There is no royal road to geometry'. And
+there is no royal road. Physicists cannot make a conversion
+to any other language. If you want to learn about nature,
+to appreciate nature, it is necessary to understand the lan­
+guage that she speaks in. She offers her information only in
+one form ; we are not so unhumble as to demand that she
+change before we pay any attention.
+   All the intellectual arguments that you can make will not
+communicate to deaf ears what the experience of music really
+is. In the same way all the intellectual arg_uments in the
+world will not convey an understanding of nature to those
+of 'the other culture'. Philosophers may try to teach you by
+telling you qualitatively about nature. I am trying to des­
+cribe her. But it is not getting across because it is impos­
+sible. Perhaps it is because their horizons are limited in this
+way that some people are able to imagine that the centre of
+the universe is man.
+
+
+
+                              58
+                              3
